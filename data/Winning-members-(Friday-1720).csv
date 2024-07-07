@@ -1,0 +1,651 @@
+ons_id,constituency_name,region_name,country_name,constituency_type,time_recorded,result,party_abbreviation,party_name,title,firstname,surname,middlenames,mnis_id,gender,candidate_type,old_constituency
+W07000081,Aberafan Maesteg,Wales,Wales,County,7/5/24 4:07,Lab hold,Lab,Labour,,Stephen,Kinnock,,4359,Male,Re-elected Member,Aberavon
+S14000060,Aberdeen North,Scotland,Scotland,Borough,7/5/24 5:00,SNP hold,SNP,Scottish National Party,,Kirsty,Blackman,Ann,4357,Female,Re-elected Member,Aberdeen North
+S14000061,Aberdeen South,Scotland,Scotland,Borough,7/5/24 5:02,SNP hold,SNP,Scottish National Party,,Stephen,Flynn,Mark,4735,Male,Re-elected Member,Aberdeen South
+S14000062,Aberdeenshire North and Moray East,Scotland,Scotland,County,7/5/24 5:47,SNP gain from Con,SNP,Scottish National Party,,Seamus,Logan,,,Male,New member,
+S14000063,Airdrie and Shotts,Scotland,Scotland,County,7/5/24 5:04,Lab gain from SNP,Lab,Labour,,Kenneth,Stevenson,,,Male,New member,
+E14001063,Aldershot,South East,England,Borough,7/5/24 4:48,Lab gain from Con,Lab,Labour,,Alex,Baker,,,Female,New member,
+E14001064,Aldridge-Brownhills,West Midlands,England,Borough,7/5/24 5:45,Con hold,Con,Conservative,,Wendy,Morton,,4358,Female,Re-elected Member,Aldridge-Brownhills
+S14000064,Alloa and Grangemouth,Scotland,Scotland,County,7/5/24 5:06,Lab gain from SNP,Lab,Labour,,Brian,Leishman,,,Male,New member,
+E14001065,Altrincham and Sale West,North West,England,Borough,7/5/24 4:37,Lab gain from Con,Lab,Labour,Mr,Connor,Rand,Dean,,Male,New member,
+W07000082,Alyn and Deeside,Wales,Wales,County,7/5/24 4:16,Lab hold,Lab,Labour,,Mark,Tami,,1383,Male,Re-elected Member,Alyn and Deeside
+E14001066,Amber Valley,East Midlands,England,County,7/5/24 3:53,Lab gain from Con,Lab,Labour,,Linsey,Farnsworth,Jayne,,Female,New member,
+S14000065,Angus and Perthshire Glens,Scotland,Scotland,County,7/5/24 8:11,SNP hold,SNP,Scottish National Party,,Dave,Doogan,Michael,4736,Male,Re-elected Member,Angus
+S14000066,Arbroath and Broughty Ferry,Scotland,Scotland,County,7/5/24 6:04,SNP hold,SNP,Scottish National Party,,Stephen,Gethins,Patrick,4434,Male,Historical member,
+S14000067,"Argyll, Bute and South Lochaber",Scotland,Scotland,County,7/5/24 6:49,SNP hold,SNP,Scottish National Party,,Brendan,O'Hara,,4371,Male,Re-elected Member,Argyll and Bute
+E14001067,Arundel and South Downs,South East,England,County,7/5/24 6:05,Con hold,Con,Conservative,,Andrew,Griffith,,4874,Male,Re-elected Member,Arundel and South Downs
+E14001068,Ashfield,East Midlands,England,County,7/5/24 2:30,RUK gain from Con,RUK,Reform UK,,Lee,Anderson,John,4743,Male,Re-elected Member,Ashfield
+E14001069,Ashford,South East,England,County,7/5/24 5:25,Lab gain from Con,Lab,Labour,,Sojan,Joseph,,,Male,New member,
+E14001070,Ashton-under-Lyne,North West,England,Borough,7/5/24 3:18,Lab hold,Lab,Labour,Ms,Angela,Rayner,,4356,Female,Re-elected Member,Ashton-under-Lyne
+E14001071,Aylesbury,South East,England,County,7/5/24 6:47,Lab gain from Con,Lab,Labour,,Laura,Kyrke-Smith,Elizabeth,,Female,New member,
+S14000107,"Ayr, Carrick and Cumnock",Scotland,Scotland,County,7/5/24 5:08,Lab gain from SNP,Lab,Labour,,Elaine,Stewart,,,Female,New member,
+E14001072,Banbury,South East,England,County,7/5/24 6:25,Lab gain from Con,Lab,Labour,,Sean,Woodcock,Lee,,Male,New member,
+W07000083,Bangor Aberconwy,Wales,Wales,County,7/5/24 3:45,Lab gain from Con,Lab,Labour,,Claire,Hughes,,,Female,New member,
+E14001073,Barking,London,England,Borough,7/5/24 4:48,Lab hold,Lab,Labour,,Nesil,Caliskan,,,Female,New member,
+E14001074,Barnsley North,Yorkshire and The Humber,England,County,7/5/24 2:28,Lab hold,Lab,Labour,,Dan,Jarvis,,4243,Male,Re-elected Member,Barnsley Central
+E14001075,Barnsley South,Yorkshire and The Humber,England,County,7/5/24 2:25,Lab hold,Lab,Labour,,Stephanie,Peacock,Louise,4607,Female,Re-elected Member,Barnsley East
+E14001076,Barrow and Furness,North West,England,County,7/5/24 2:59,Lab gain from Con,Lab,Labour,,Michelle,Scrogham,,,Female,New member,
+E14001077,Basildon and Billericay,East of England,England,Borough,7/5/24 4:45,Con hold,Con,Conservative,,Richard,Holden,John,4813,Male,Re-elected Member,North West Durham
+E14001078,Basingstoke,South East,England,Borough,7/5/24 5:27,Lab gain from Con,Lab,Labour,,Luke,Murphy,,,Male,New member,
+E14001079,Bassetlaw,East Midlands,England,County,7/5/24 3:59,Lab gain from Con,Lab,Labour,,Jo,White,,,Female,New member,
+E14001080,Bath,South West,England,County,7/5/24 4:35,LD hold,LD,Liberal Democrat,,Wera,Hobhouse,Benedicta,4602,Female,Re-elected Member,Bath
+S14000068,Bathgate and Linlithgow,Scotland,Scotland,County,7/5/24 5:10,Lab gain from SNP,Lab,Labour and Co-operative,,Kirsteen,Sullivan,Ann,,Female,New member,
+E14001081,Battersea,London,England,Borough,7/5/24 2:55,Lab hold,Lab,Labour,,Marsha,De Cordova,Chantol,4676,Female,Re-elected Member,Battersea
+E14001082,Beaconsfield,South East,England,County,7/5/24 7:29,Con hold,Con,Conservative,,Joy,Morrissey,,4759,Female,Re-elected Member,Beaconsfield
+E14001083,Beckenham and Penge,London,England,Borough,7/5/24 4:22,Lab hold,Lab,Labour,,Liam,Conlon,,,Male,New member,
+E14001084,Bedford,East of England,England,Borough,7/5/24 5:32,Lab hold,Lab,Labour,,Mohammad,Yasin,,4598,Male,Re-elected Member,Bedford
+N05000001,Belfast East,Northern Ireland,Northern Ireland,Borough,7/5/24 5:43,DUP hold,DUP,Democratic Unionist Party,,Gavin,Robinson,,4360,Male,Re-elected Member,Belfast East
+N05000002,Belfast North,Northern Ireland,Northern Ireland,Borough,7/5/24 4:57,SF hold,SF,Sinn Fein,,John,Finucane,,4823,Male,Re-elected Member,Belfast North
+N05000003,Belfast South and Mid Down,Northern Ireland,Northern Ireland,Borough,7/5/24 5:57,SDLP hold,SDLP,Social Democratic and Labour Party,,Claire,Hanna,,4827,Female,Re-elected Member,Belfast South
+N05000004,Belfast West,Northern Ireland,Northern Ireland,Borough,7/5/24 6:23,SF hold,SF,Sinn Fein,,Paul,Maskey,,4245,Male,Re-elected Member,Belfast West
+E14001085,Bermondsey and Old Southwark,London,England,Borough,7/5/24 3:21,Lab hold,Lab,Labour,,Neil,Coyle,,4368,Male,Re-elected Member,Bermondsey and Old Southwark
+S14000108,"Berwickshire, Roxburgh and Selkirk",Scotland,Scotland,County,7/5/24 5:12,Con hold,Con,Conservative,,John,Lamont,Robert,4608,Male,Re-elected Member,"Berwickshire, Roxburgh and Selkirk"
+E14001086,Bethnal Green and Stepney,London,England,Borough,7/5/24 5:51,Lab hold,Lab,Labour,,Rushanara,Ali,,4138,Female,Re-elected Member,Bethnal Green and Bow
+E14001087,Beverley and Holderness,Yorkshire and The Humber,England,County,7/5/24 6:38,Con hold,Con,Conservative,,Graham,Stuart,,1482,Male,Re-elected Member,Beverley and Holderness
+E14001088,Bexhill and Battle,South East,England,County,7/5/24 4:50,Con hold,Con,Conservative,,Kieran,Mullan,John,4860,Male,Re-elected Member,Crewe and Nantwich
+E14001089,Bexleyheath and Crayford,London,England,Borough,7/5/24 5:01,Lab gain from Con,Lab,Labour,,Daniel,Francis,,,Male,New member,
+E14001090,Bicester and Woodstock,South East,England,County,7/5/24 7:05,LD gain from Con,LD,Liberal Democrat,,Calum,Miller,Alexander,,Male,New member,
+E14001091,Birkenhead,North West,England,Borough,7/5/24 3:50,Lab hold,Lab,Labour,,Alison,McGovern,,4083,Female,Re-elected Member,Wirral South
+E14001092,Birmingham Edgbaston,West Midlands,England,Borough,7/5/24 7:37,Lab hold,Lab,Labour and Co-operative,,Preet,Gill,Kaur,4603,Female,Re-elected Member,"Birmingham, Edgbaston"
+E14001093,Birmingham Erdington,West Midlands,England,Borough,7/5/24 5:46,Lab hold,Lab,Labour,Mrs,Paulette,Hamilton,Adassa,4938,Female,Re-elected Member,"Birmingham, Erdington"
+E14001094,Birmingham Hall Green and Moseley,West Midlands,England,Borough,7/5/24 6:11,Lab hold,Lab,Labour,,Tahir,Ali,,4747,Male,Re-elected Member,"Birmingham, Hall Green"
+E14001095,Birmingham Hodge Hill and Solihull North,West Midlands,England,Borough,7/5/24 4:55,Lab hold,Lab,Labour,,Liam,Byrne,Dominic,1171,Male,Re-elected Member,"Birmingham, Hodge Hill"
+E14001096,Birmingham Ladywood,West Midlands,England,Borough,7/5/24 6:46,Lab hold,Lab,Labour,,Shabana,Mahmood,,3914,Female,Re-elected Member,"Birmingham, Ladywood"
+E14001097,Birmingham Northfield,West Midlands,England,Borough,7/5/24 5:19,Lab gain from Con,Lab,Labour,,Laurence,Turner,David Russell,,Male,New member,
+E14001098,Birmingham Perry Barr,West Midlands,England,Borough,7/5/24 8:19,Ind gain from Lab,Ind,Independent,,Ayoub,Khan,,,Male,New member,
+E14001099,Birmingham Selly Oak,West Midlands,England,Borough,7/5/24 5:15,Lab hold,Lab,Labour,,Al,Carns,,,Male,New member,
+E14001100,Birmingham Yardley,West Midlands,England,Borough,7/5/24 6:29,Lab hold,Lab,Labour,,Jess,Phillips,,4370,Female,Re-elected Member,"Birmingham, Yardley"
+E14001101,Bishop Auckland,North East,England,County,7/5/24 4:16,Lab gain from Con,Lab,Labour,,Sam,Rushworth,,,Male,New member,
+E14001102,Blackburn,North West,England,Borough,7/5/24 5:13,Ind gain from Lab,Ind,Independent,Mr,Adnan,Hussain,,,Male,New member,
+E14001103,Blackley and Middleton South,North West,England,Borough,7/5/24 5:20,Lab hold,Lab,Labour,,Graham,Stringer,Eric,449,Male,Re-elected Member,Blackley and Broughton
+E14001104,Blackpool North and Fleetwood,North West,England,Borough,7/5/24 4:58,Lab gain from Con,Lab,Labour,Mrs,Lorraine,Beavers,,,Female,New member,
+E14001105,Blackpool South,North West,England,Borough,7/5/24 2:28,Lab gain from Con,Lab,Labour,Mr,Chris,Webb,,5025,Male,Re-elected Member,Blackpool South
+W07000084,Blaenau Gwent and Rhymney,Wales,Wales,County,7/5/24 5:30,Lab hold,Lab,Labour,,Nick,Smith,,3928,Male,Re-elected Member,Blaenau Gwent
+E14001106,Blaydon and Consett,North East,England,County,7/5/24 4:25,Lab hold,Lab,Labour,,Liz,Twist,,4618,Female,Re-elected Member,Blaydon
+E14001107,Blyth and Ashington,North East,England,County,7/4/24 23:51,Lab hold,Lab,Labour,,Ian,Lavery,,4139,Male,Re-elected Member,Wansbeck
+E14001108,Bognor Regis and Littlehampton,South East,England,Borough,7/5/24 5:13,Con hold,Con,Conservative,,Alison,Griffiths,,,Female,New member,
+E14001109,Bolsover,East Midlands,England,County,7/5/24 3:10,Lab gain from Con,Lab,Labour,,Natalie,Fleet,Sarah,,Female,New member,
+E14001110,Bolton North East,North West,England,Borough,7/5/24 4:04,Lab gain from Con,Lab,Labour,,Kirith,Entwistle,,,Female,New member,
+E14001111,Bolton South and Walkden,North West,England,Borough,7/5/24 3:29,Lab hold,Lab,Labour,,Yasmin,Qureshi,,3924,Female,Re-elected Member,Bolton South East
+E14001112,Bolton West,North West,England,County,7/5/24 3:40,Lab gain from Con,Lab,Labour,Mr,Phil,Brickell,,,Male,New member,
+E14001113,Bootle,North West,England,Borough,7/5/24 2:44,Lab hold,Lab,Labour,Mr,Peter,Dowd,,4397,Male,Re-elected Member,Bootle
+E14001114,Boston and Skegness,East Midlands,England,County,7/5/24 4:23,RUK gain from Con,RUK,Reform UK,,Richard,Tice,,,Male,New member,
+E14001115,Bournemouth East,South West,England,Borough,7/5/24 5:13,Lab gain from Con,Lab,Labour,,Tom,Hayes,,,Male,New member,
+E14001116,Bournemouth West,South West,England,Borough,7/5/24 5:11,Lab gain from Con,Lab,Labour,,Jessica,Toale,Jade,,Female,New member,
+E14001117,Bracknell,South East,England,Borough,7/5/24 4:38,Lab gain from Con,Lab,Labour,,Peter,Swallow,,,Male,New member,
+E14001118,Bradford East,Yorkshire and The Humber,England,Borough,7/5/24 6:23,Lab hold,Lab,Labour,,Imran,Hussain,,4394,Male,Re-elected Member,Bradford East
+E14001119,Bradford South,Yorkshire and The Humber,England,Borough,7/5/24 5:50,Lab hold,Lab,Labour,,Judith,Cummins,Mary,4391,Female,Re-elected Member,Bradford South
+E14001120,Bradford West,Yorkshire and The Humber,England,Borough,7/5/24 5:52,Lab hold,Lab,Labour,,Naz,Shah,Akhtar,4409,Female,Re-elected Member,Bradford West
+E14001121,Braintree,East of England,England,County,7/5/24 6:32,Con hold,Con,Conservative,,James,Cleverly,Spencer,4366,Male,Re-elected Member,Braintree
+W07000085,"Brecon, Radnor and Cwm Tawe",Wales,Wales,County,7/5/24 5:42,LD gain from Con,LD,Liberal Democrat,,David,Chadwick,,,Male,New member,
+E14001122,Brent East,London,England,Borough,7/5/24 3:29,Lab hold,Lab,Labour,,Dawn,Butler,Petula,1489,Female,Re-elected Member,Brent Central
+E14001123,Brent West,London,England,Borough,7/5/24 6:02,Lab hold,Lab,Labour,,Barry,Gardiner,Strachan,146,Male,Re-elected Member,Brent North
+E14001124,Brentford and Isleworth,London,England,Borough,7/5/24 4:14,Lab hold,Lab,Labour,,Ruth,Cadbury,Margaret,4389,Female,Re-elected Member,Brentford and Isleworth
+E14001125,Brentwood and Ongar,East of England,England,County,7/5/24 4:03,Con hold,Con,Conservative,,Alex,Burghart,,4613,Male,Re-elected Member,Brentwood and Ongar
+W07000086,Bridgend,Wales,Wales,County,7/5/24 2:25,Lab gain from Con,Lab,Labour,,Chris,Elmore,Philip James,4572,Male,Re-elected Member,Ogmore
+E14001126,Bridgwater,South West,England,County,7/5/24 3:53,Con hold,Con,Conservative,Sir,Ashley,Fox,,,Male,New member,
+E14001127,Bridlington and The Wolds,Yorkshire and The Humber,England,County,7/5/24 5:54,Con hold,Con,Conservative,,Charlie,Dewhirst,,,Male,New member,
+E14001128,Brigg and Immingham,Yorkshire and The Humber,England,County,7/5/24 5:55,Con hold,Con,Conservative,,Martin,Vickers,John,3957,Male,Re-elected Member,Cleethorpes
+E14001129,Brighton Kemptown and Peacehaven,South East,England,Borough,7/5/24 5:51,Lab hold,Lab,Labour,,Chris,Ward,,,Male,New member,
+E14001130,Brighton Pavilion,South East,England,Borough,7/5/24 6:22,Green hold,Green,Green,,SiÃ¢n,Berry,,,Female,New member,
+E14001131,Bristol Central,South West,England,Borough,7/5/24 3:58,Green gain from Lab,Green,Green,,Carla,Denyer,,,Female,New member,
+E14001132,Bristol East,South West,England,Borough,7/5/24 5:16,Lab hold,Lab,Labour,,Kerry,McCarthy,Gillian,1491,Female,Re-elected Member,Bristol East
+E14001133,Bristol North East,South West,England,Borough,7/5/24 4:30,Lab hold,Lab,Labour,,Damien,Egan,James,5010,Male,Re-elected Member,Kingswood
+E14001134,Bristol North West,South West,England,Borough,7/5/24 4:58,Lab hold,Lab,Labour,,Darren,Jones,,4621,Male,Re-elected Member,Bristol North West
+E14001135,Bristol South,South West,England,Borough,7/5/24 3:49,Lab hold,Lab,Labour,,Karin,Smyth,,4444,Female,Re-elected Member,Bristol South
+E14001136,Broadland and Fakenham,East of England,England,County,7/5/24 5:00,Con hold,Con,Conservative,,Jerome,Mayhew,,4739,Male,Re-elected Member,Broadland
+E14001137,Bromley and Biggin Hill,London,England,Borough,7/5/24 5:08,Con hold,Con,Conservative,,Peter,Fortune,Timothy,,Male,New member,
+E14001138,Bromsgrove,West Midlands,England,County,7/5/24 4:44,Con hold,Con,Conservative,,Bradley,Thomas,Anthony,,Male,New member,
+E14001139,Broxbourne,East of England,England,County,7/5/24 3:04,Con hold,Con,Conservative,,Lewis,Cocking,,,Male,New member,
+E14001140,Broxtowe,East Midlands,England,County,7/5/24 3:01,Lab gain from Con,Lab,Labour,,Juliet,Campbell,Olive,,Female,New member,
+E14001141,Buckingham and Bletchley,South East,England,County,7/5/24 5:15,Lab gain from Con,Lab,Labour,,Callum,Anderson,,,Male,New member,
+E14001142,Burnley,North West,England,County,7/5/24 4:44,Lab gain from Con,Lab,Labour and Co-operative,,Oliver,Ryan,David,,Male,New member,
+E14001143,Burton and Uttoxeter,West Midlands,England,County,7/5/24 3:24,Lab gain from Con,Lab,Labour,,Jacob,Collier,,,Male,New member,
+E14001144,Bury North,North West,England,Borough,7/5/24 4:41,Lab gain from Con,Lab,Labour,Mr,James,Frith,,4637,Male,Historical member,
+E14001145,Bury South,North West,England,Borough,7/5/24 5:21,Lab gain from Con,Lab,Labour,Mr,Christian,Wakeford,,4871,Male,Re-elected Member,Bury South
+E14001146,Bury St Edmunds and Stowmarket,East of England,England,County,7/5/24 5:36,Lab gain from Con,Lab,Labour,,Peter,Prinsley,Richard,,Male,New member,
+W07000087,Caerfyrddin,Wales,Wales,County,7/5/24 5:16,PC gain from Con,PC,Plaid Cymru,Ms,Ann,Davies,,,Female,New member,
+W07000088,Caerphilly,Wales,Wales,County,7/5/24 4:35,Lab hold,Lab,Labour and Co-operative,,Chris,Evans,,4040,Male,Re-elected Member,Islwyn
+S14000069,"Caithness, Sutherland and Easter Ross",Scotland,Scotland,County,7/5/24 6:15,LD gain from SNP,LD,Liberal Democrat,,Jamie,Stone,,4612,Male,Re-elected Member,"Caithness, Sutherland and Easter Ross"
+E14001147,Calder Valley,Yorkshire and The Humber,England,County,7/5/24 5:57,Lab gain from Con,Lab,Labour,,Josh,Fenton-Glynn,,,Male,New member,
+E14001148,Camborne and Redruth,South West,England,County,7/5/24 5:06,Lab gain from Con,Lab,Labour,,Perran,Moon,,,Male,New member,
+E14001149,Cambridge,East of England,England,Borough,7/5/24 3:45,Lab hold,Lab,Labour,,Daniel,Zeichner,Stephen,4382,Male,Re-elected Member,Cambridge
+E14001150,Cannock Chase,West Midlands,England,County,7/5/24 2:30,Lab gain from Con,Lab,Labour,,Josh,Newbury,,,Male,New member,
+E14001151,Canterbury,South East,England,County,7/5/24 4:43,Lab hold,Lab,Labour,,Rosie,Duffield,,4616,Female,Re-elected Member,Canterbury
+W07000089,Cardiff East,Wales,Wales,Borough,7/5/24 4:44,Lab hold,Lab,Labour,,Jo,Stevens,,4425,Female,Re-elected Member,Cardiff Central
+W07000090,Cardiff North,Wales,Wales,Borough,7/5/24 5:17,Lab hold,Lab,Labour,,Anna,McMorrin,,4632,Female,Re-elected Member,Cardiff North
+W07000091,Cardiff South and Penarth,Wales,Wales,Borough,7/5/24 4:56,Lab hold,Lab,Labour and Co-operative,,Stephen,Doughty,,4264,Male,Re-elected Member,Cardiff South and Penarth
+W07000092,Cardiff West,Wales,Wales,Borough,7/5/24 4:31,Lab hold,Lab,Labour,Mr,Alex,Barros-Curtis,,,Male,New member,
+E14001152,Carlisle,North West,England,County,7/5/24 3:57,Lab gain from Con,Lab,Labour,Ms,Julie,Minns,,,Female,New member,
+E14001153,Carshalton and Wallington,London,England,Borough,7/5/24 3:22,LD gain from Con,LD,Liberal Democrat,,Bobby,Dean,,,Male,New member,
+E14001154,Castle Point,East of England,England,Borough,7/5/24 4:47,Con hold,Con,Conservative,,Rebecca,Harris,Elizabeth Scott,3948,Female,Re-elected Member,Castle Point
+S14000109,Central Ayrshire,Scotland,Scotland,County,7/5/24 5:18,Lab gain from SNP,Lab,Labour,,Alan,Gemmell,,,Male,New member,
+E14001155,Central Devon,South West,England,County,7/5/24 7:08,Con hold,Con,Conservative,,Mel,Stride,,3935,Male,Re-elected Member,Central Devon
+E14001156,Central Suffolk and North Ipswich,East of England,England,County,7/5/24 6:08,Con hold,Con,Conservative,,Patrick,Spencer,,,Male,New member,
+W07000093,Ceredigion Preseli,Wales,Wales,County,7/5/24 4:38,PC hold,PC,Plaid Cymru,,Ben,Lake,,4630,Male,Re-elected Member,Ceredigion
+E14001157,Chatham and Aylesford,South East,England,County,7/5/24 5:17,Lab gain from Con,Lab,Labour,,Tristan,Osborne,John,,Male,New member,
+E14001158,Cheadle,North West,England,Borough,7/5/24 3:52,LD gain from Con,LD,Liberal Democrat,Mr,Tom,Morrison,,,Male,New member,
+E14001159,Chelmsford,East of England,England,Borough,7/5/24 3:33,LD gain from Con,LD,Liberal Democrat,,Marie,Goldman,,,Female,New member,
+E14001160,Chelsea and Fulham,London,England,Borough,7/5/24 6:45,Lab gain from Con,Lab,Labour,,Ben,Coleman,,,Male,New member,
+E14001161,Cheltenham,South West,England,Borough,7/5/24 3:08,LD gain from Con,LD,Liberal Democrat,,Max,Wilkinson,,,Male,New member,
+E14001162,Chesham and Amersham,South East,England,County,7/5/24 7:47,LD gain from Con,LD,Liberal Democrat,,Sarah,Green,Louise,4918,Female,Re-elected Member,Chesham and Amersham
+E14001163,Chester North and Neston,North West,England,County,7/5/24 5:33,Lab hold,Lab,Labour,Ms,Samantha,Dixon,Kate,4976,Female,Re-elected Member,City of Chester
+E14001164,Chester South and Eddisbury,North West,England,County,7/5/24 5:57,Con hold,Con,Conservative,Ms,Aphra,Brandreth,,,Female,New member,
+E14001165,Chesterfield,East Midlands,England,Borough,7/5/24 5:04,Lab hold,Lab,Labour,,Toby,Perkins,,3952,Male,Re-elected Member,Chesterfield
+E14001166,Chichester,South East,England,County,7/5/24 6:39,LD gain from Con,LD,Liberal Democrat,,Jess,Brown-Fuller,,,Female,New member,
+E14001167,Chingford and Woodford Green,London,England,Borough,7/5/24 3:36,Con hold,Con,Conservative,,Iain,Duncan Smith,,152,Male,Re-elected Member,Chingford and Woodford Green
+E14001168,Chippenham,South West,England,County,7/5/24 5:18,LD gain from Con,LD,Liberal Democrat,,Sarah,Gibson,,,Female,New member,
+E14001169,Chipping Barnet,London,England,Borough,7/5/24 5:44,Lab gain from Con,Lab,Labour,,Dan,Tomlinson,,,Male,New member,
+E14001170,Chorley,North West,England,County,7/5/24 2:40,Spk hold,Spk,Speaker,Sir,Lindsay,Hoyle,Harvey,467,Male,Re-elected Member,Chorley
+E14001171,Christchurch,South West,England,County,7/5/24 6:17,Con hold,Con,Conservative,Sir,Christopher,Chope,Robert,242,Male,Re-elected Member,Christchurch
+E14001172,Cities of London and Westminster,London,England,Borough,7/5/24 5:26,Lab gain from Con,Lab,Labour and Co-operative,,Rachel,Blake,Nancy,,Female,New member,
+E14001173,City of Durham,North East,England,County,7/5/24 3:40,Lab hold,Lab,Labour,,Mary,Foy,Kelly,4753,Female,Re-elected Member,City of Durham
+E14001174,Clacton,East of England,England,County,7/5/24 4:05,RUK gain from Con,RUK,Reform UK,,Nigel,Farage,Paul,,Male,New member,
+E14001175,Clapham and Brixton Hill,London,England,Borough,7/5/24 4:51,Lab hold,Lab,Labour,,Bell,Ribeiro-Addy,Janet,4764,Female,Re-elected Member,Streatham
+W07000094,Clwyd East,Wales,Wales,County,7/5/24 4:54,Lab gain from Con,Lab,Labour,,Becky,Gettins,,,Female,New member,
+W07000095,Clwyd North,Wales,Wales,County,7/5/24 4:04,Lab gain from Con,Lab,Labour,,Gill,German,,,Female,New member,
+S14000070,Coatbridge and Bellshill,Scotland,Scotland,Borough,7/5/24 5:20,Lab gain from SNP,Lab,Labour,,Frank,McNally,,,Male,New member,
+E14001176,Colchester,East of England,England,Borough,7/5/24 2:48,Lab gain from Con,Lab,Labour,,Pam,Cox,,,Female,New member,
+E14001177,Colne Valley,Yorkshire and The Humber,England,County,7/5/24 6:25,Lab gain from Con,Lab,Labour,,Paul,Davies,,,Male,New member,
+E14001178,Congleton,North West,England,County,7/5/24 6:38,Lab gain from Con,Lab,Labour,Mrs,Sarah,Russell,Alison,,Female,New member,
+E14001179,Corby and East Northamptonshire,East Midlands,England,County,7/5/24 6:11,Lab gain from Con,Lab,Labour,,Lee,Barron,,,Male,New member,
+E14001180,Coventry East,West Midlands,England,Borough,7/5/24 2:56,Lab hold,Lab,Labour,,Mary,Creagh,,1579,Female,Historical member,
+E14001181,Coventry North West,West Midlands,England,Borough,7/5/24 3:10,Lab hold,Lab,Labour,,Taiwo,Owatemi,,4779,Female,Re-elected Member,Coventry North West
+E14001182,Coventry South,West Midlands,England,Borough,7/5/24 3:48,Lab hold,Lab,Labour,,Zarah,Sultana,,4786,Female,Re-elected Member,Coventry South
+S14000071,Cowdenbeath and Kirkcaldy,Scotland,Scotland,County,7/5/24 5:22,Lab gain from SNP,Lab,Labour,,Melanie,Ward,Claire,,Female,New member,
+E14001183,Cramlington and Killingworth,North East,England,County,7/5/24 1:55,Lab hold,Lab,Labour and Co-operative,,Emma,Foody,,,Female,New member,
+E14001184,Crawley,South East,England,Borough,7/5/24 6:57,Lab gain from Con,Lab,Labour,,Peter,Lamb,,,Male,New member,
+E14001185,Crewe and Nantwich,North West,England,County,7/5/24 5:49,Lab gain from Con,Lab,Labour,,Connor,Naismith,James,,Male,New member,
+E14001186,Croydon East,London,England,Borough,7/5/24 3:45,Lab hold,Lab,Labour,,Natasha,Irons,Dawn,,Female,New member,
+E14001187,Croydon South,London,England,Borough,7/5/24 4:35,Con hold,Con,Conservative,,Chris,Philp,Ian Brian Mynott,4503,Male,Re-elected Member,Croydon South
+E14001188,Croydon West,London,England,Borough,7/5/24 4:39,Lab hold,Lab,Labour,,Sarah,Jones,Ann,4631,Female,Re-elected Member,Croydon Central
+S14000072,Cumbernauld and Kirkintilloch,Scotland,Scotland,County,7/5/24 6:09,Lab gain from SNP,Lab,Labour,,Katrina,Murray,Laidlaw,,Female,New member,
+E14001189,Dagenham and Rainham,London,England,Borough,7/5/24 5:36,Lab hold,Lab,Labour,,Margaret,Mullane,,,Female,New member,
+E14001190,Darlington,North East,England,County,7/5/24 2:57,Lab gain from Con,Lab,Labour,,Lola,McEvoy,,,Female,New member,
+E14001191,Dartford,South East,England,County,7/5/24 5:18,Lab gain from Con,Lab,Labour,,Jim,Dickson,,,Male,New member,
+E14001192,Daventry,East Midlands,England,County,7/5/24 7:36,Con hold,Con,Conservative,,Stuart,Andrew,,4032,Male,Re-elected Member,Pudsey
+E14001193,Derby North,East Midlands,England,Borough,7/5/24 4:11,Lab gain from Con,Lab,Labour,,Catherine,Atkinson,Helen,,Female,New member,
+E14001194,Derby South,East Midlands,England,Borough,7/5/24 4:27,Lab hold,Lab,Labour and Co-operative,,Baggy,Shanker,,,Male,New member,
+E14001195,Derbyshire Dales,East Midlands,England,County,7/5/24 6:55,Lab gain from Con,Lab,Labour,,John,Whitby,Michael,,Male,New member,
+E14001196,Dewsbury and Batley,Yorkshire and The Humber,England,Borough,7/5/24 6:00,Ind gain from Lab,Ind,Independent,,Iqbal,Mohamed,Hussain,,Male,New member,
+E14001197,Didcot and Wantage,South East,England,County,7/5/24 6:20,LD gain from Con,LD,Liberal Democrat,,Olly,Glover,,,Male,New member,
+E14001198,Doncaster Central,Yorkshire and The Humber,England,County,7/5/24 4:37,Lab hold,Lab,Labour and Co-operative,,Sally,Jameson,,,Female,New member,
+E14001199,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,England,County,7/5/24 6:02,Lab gain from Con,Lab,Labour,,Lee,Pitcher,,,Male,New member,
+E14001200,Doncaster North,Yorkshire and The Humber,England,County,7/5/24 6:05,Lab hold,Lab,Labour,,Ed,Miliband,Samuel,1510,Male,Re-elected Member,Doncaster North
+E14001201,Dorking and Horley,South East,England,County,7/5/24 5:15,LD gain from Con,LD,Liberal Democrat,,Chris,Coghlan,,,Male,New member,
+E14001202,Dover and Deal,South East,England,County,7/5/24 6:45,Lab gain from Con,Lab,Labour,,Mike,Tapp,,,Male,New member,
+E14001203,Droitwich and Evesham,West Midlands,England,County,7/5/24 4:13,Con hold,Con,Conservative,,Nigel,Huddleston,Paul,4407,Male,Re-elected Member,Mid Worcestershire
+E14001204,Dudley,West Midlands,England,Borough,7/5/24 6:04,Lab gain from Con,Lab,Labour,,Sonia,Kumar,,,Female,New member,
+E14001205,Dulwich and West Norwood,London,England,Borough,7/5/24 5:37,Lab hold,Lab,Labour,,Helen,Hayes,Elizabeth,4510,Female,Re-elected Member,Dulwich and West Norwood
+S14000073,Dumfries and Galloway,Scotland,Scotland,County,7/5/24 11:43,Con hold,Con,Conservative,,John,Cooper,Matthew,,Male,New member,
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,Scotland,County,7/5/24 11:40,Con hold,Con,Conservative,,David,Mundell,Gordon,1512,Male,Re-elected Member,"Dumfriesshire, Clydesdale and Tweeddale"
+S14000075,Dundee Central,Scotland,Scotland,Borough,7/5/24 5:24,SNP hold,SNP,Scottish National Party,,Chris,Law,,4403,Male,Re-elected Member,Dundee West
+S14000076,Dunfermline and Dollar,Scotland,Scotland,County,7/5/24 6:16,Lab gain from SNP,Lab,Labour,,Graeme,Downie,James,,Male,New member,
+E14001206,Dunstable and Leighton Buzzard,East of England,England,County,7/5/24 4:19,Lab gain from Con,Lab,Labour,,Alex,Mayer,,,Female,New member,
+W07000096,Dwyfor Meirionnydd,Wales,Wales,County,7/5/24 5:13,PC hold,PC,Plaid Cymru,,Liz,Saville Roberts,,4521,Female,Re-elected Member,Dwyfor Meirionnydd
+E14001207,Ealing Central and Acton,London,England,Borough,7/5/24 2:52,Lab hold,Lab,Labour,Dr,Rupa,Huq,Asha,4511,Female,Re-elected Member,Ealing Central and Acton
+E14001208,Ealing North,London,England,Borough,7/5/24 3:24,Lab hold,Lab,Labour and Co-operative,,James,Murray,,4797,Male,Re-elected Member,Ealing North
+E14001209,Ealing Southall,London,England,Borough,7/5/24 3:27,Lab hold,Lab,Labour,,Deidre,Costigan,,,Female,New member,
+E14001210,Earley and Woodley,South East,England,Borough,7/5/24 5:23,Lab gain from Con,Lab,Labour,,Yuan,Yang,,,Female,New member,
+E14001211,Easington,North East,England,County,7/5/24 5:19,Lab hold,Lab,Labour,,Grahame,Morris,Mark,3973,Male,Re-elected Member,Easington
+N05000005,East Antrim,Northern Ireland,Northern Ireland,County,7/5/24 5:13,DUP hold,DUP,Democratic Unionist Party,,Sammy,Wilson,,1593,Male,Re-elected Member,East Antrim
+E14001212,East Grinstead and Uckfield,South East,England,County,7/5/24 5:45,Con hold,Con,Conservative,,Mims,Davies,,4513,Female,Re-elected Member,Mid Sussex
+E14001213,East Ham,London,England,Borough,7/5/24 6:03,Lab hold,Lab,Labour,Sir,Stephen,Timms,,163,Male,Re-elected Member,East Ham
+E14001214,East Hampshire,South East,England,County,7/5/24 5:35,Con hold,Con,Conservative,,Damian,Hinds,Patrick George,3969,Male,Re-elected Member,East Hampshire
+S14000077,East Kilbride and Strathaven,Scotland,Scotland,County,7/5/24 4:15,Lab gain from SNP,Lab,Labour,,Joani,Reid,,,Female,New member,
+N05000006,East Londonderry,Northern Ireland,Northern Ireland,County,7/5/24 8:02,DUP hold,DUP,Democratic Unionist Party,Mr,Gregory,Campbell,,1409,Male,Re-elected Member,East Londonderry
+S14000021,East Renfrewshire,Scotland,Scotland,County,7/5/24 3:34,Lab gain from SNP,Lab,Labour,,Blair,McDougall,,,Male,New member,
+E14001215,East Surrey,South East,England,County,7/5/24 5:39,Con hold,Con,Conservative,,Claire,Coutinho,Coryl Julia,4806,Female,Re-elected Member,East Surrey
+E14001216,East Thanet,South East,England,Borough,7/5/24 3:48,Lab gain from Con,Lab,Labour,,Polly,Billington,,,Female,New member,
+E14001217,East Wiltshire,South West,England,County,7/5/24 6:30,Con hold,Con,Conservative,,Danny,Kruger,,4858,Male,Re-elected Member,Devizes
+E14001218,East Worthing and Shoreham,South East,England,County,7/5/24 6:46,Lab gain from Con,Lab,Labour,,Tom,Rutland,,,Male,New member,
+E14001219,Eastbourne,South East,England,Borough,7/5/24 3:38,LD gain from Con,LD,Liberal Democrat,,Josh,Babarinde,,,Male,New member,
+E14001220,Eastleigh,South East,England,Borough,7/5/24 2:31,LD gain from Con,LD,Liberal Democrat,,Liz,Jarvis,,,Female,New member,
+S14000078,Edinburgh East and Musselburgh,Scotland,Scotland,Borough,7/5/24 5:26,Lab gain from SNP,Lab,Labour,,Chris,Murray,,,Male,New member,
+S14000079,Edinburgh North and Leith,Scotland,Scotland,Borough,7/5/24 5:35,Lab gain from SNP,Lab,Labour,,Tracy,Gilbert,,,Female,New member,
+S14000080,Edinburgh South,Scotland,Scotland,Borough,7/5/24 5:38,Lab hold,Lab,Labour,,Ian,Murray,,3966,Male,Re-elected Member,Edinburgh South
+S14000081,Edinburgh South West,Scotland,Scotland,Borough,7/5/24 5:40,Lab gain from SNP,Lab,Labour,Dr,Scott,Arthur,,,Male,New member,
+S14000082,Edinburgh West,Scotland,Scotland,Borough,7/5/24 4:33,LD hold,LD,Liberal Democrat,,Christine,Jardine,Anne,4634,Female,Re-elected Member,Edinburgh West
+E14001221,Edmonton and Winchmore Hill,London,England,Borough,7/5/24 6:05,Lab hold,Lab,Labour and Co-operative,,Kate,Osamor,,4515,Female,Re-elected Member,Edmonton
+E14001222,Ellesmere Port and Bromborough,North West,England,Borough,7/5/24 4:15,Lab hold,Lab,Labour,Mr,Justin,Madders,Piers Richard,4418,Male,Re-elected Member,Ellesmere Port and Neston
+E14001223,Eltham and Chislehurst,London,England,Borough,7/5/24 6:12,Lab gain from Con,Lab,Labour,,Clive,Efford,Stanley,165,Male,Re-elected Member,Eltham
+E14001224,Ely and East Cambridgeshire,East of England,England,County,7/5/24 4:49,LD gain from Con,LD,Liberal Democrat,,Charlotte,Cane,Kathryn Bourne,,Female,New member,
+E14001225,Enfield North,London,England,Borough,7/5/24 6:13,Lab hold,Lab,Labour,,Feryal,Clark,,4822,Female,Re-elected Member,Enfield North
+E14001226,Epping Forest,East of England,England,County,7/5/24 4:15,Con hold,Con,Conservative,,Neil,Hudson,Peter Hammerton,4853,Male,Re-elected Member,Penrith and The Border
+E14001227,Epsom and Ewell,South East,England,Borough,7/5/24 6:30,LD gain from Con,LD,Liberal Democrat,,Helen,Maguire,Elaine,,Female,New member,
+E14001228,Erewash,East Midlands,England,County,7/5/24 2:49,Lab gain from Con,Lab,Labour,,Adam,Thompson,,,Male,New member,
+E14001229,Erith and Thamesmead,London,England,Borough,7/5/24 6:19,Lab hold,Lab,Labour,,Abena,Oppong-Asare,,4820,Female,Re-elected Member,Erith and Thamesmead
+E14001230,Esher and Walton,South East,England,Borough,7/5/24 5:41,LD gain from Con,LD,Liberal Democrat,,Monica,Harding,,,Female,New member,
+E14001231,Exeter,South West,England,Borough,7/5/24 6:05,Lab hold,Lab,Labour,,Steve,Race,,,Male,New member,
+E14001232,Exmouth and Exeter East,South West,England,County,7/5/24 7:04,Con hold,Con,Conservative,,David,Reed,G,,Male,New member,
+S14000083,Falkirk,Scotland,Scotland,County,7/5/24 5:42,Lab gain from SNP,Lab,Labour,,Euan,Stainbank,,,Male,New member,
+E14001233,Fareham and Waterlooville,South East,England,County,7/5/24 5:43,Con hold,Con,Conservative,,Suella,Braverman,,4475,Female,Re-elected Member,Fareham
+E14001234,Farnham and Bordon,South East,England,County,7/5/24 7:15,Con hold,Con,Conservative,,Greg,Stafford,,,Male,New member,
+E14001235,Faversham and Mid Kent,South East,England,County,7/5/24 6:26,Con hold,Con,Conservative,,Helen,Whately,Olivia Bicknell,4527,Female,Re-elected Member,Faversham and Mid Kent
+E14001236,Feltham and Heston,London,England,Borough,7/5/24 4:18,Lab hold,Lab,Labour and Co-operative,,Seema,Malhotra,,4253,Female,Re-elected Member,Feltham and Heston
+N05000007,Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,County,7/5/24 5:18,SF hold,SF,Sinn Fein,,Pat,Cullen,,,Female,New member,
+E14001237,Filton and Bradley Stoke,South West,England,Borough,7/5/24 6:07,Lab gain from Con,Lab,Labour,,Claire,Hazelgrove,,,Female,New member,
+E14001238,Finchley and Golders Green,London,England,Borough,7/5/24 5:18,Lab gain from Con,Lab,Labour,,Sarah,Sackman,,,Female,New member,
+E14001239,Folkestone and Hythe,South East,England,County,7/5/24 3:24,Lab gain from Con,Lab,Labour,,Tony,Vaughan,,,Male,New member,
+E14001240,Forest of Dean,South West,England,County,7/5/24 6:37,Lab gain from Con,Lab,Labour,,Matt,Bishop,,,Male,New member,
+N05000008,Foyle,Northern Ireland,Northern Ireland,County,7/5/24 5:45,SDLP hold,SDLP,Social Democratic and Labour Party,,Colum,Eastwood,,4846,Male,Re-elected Member,Foyle
+E14001241,Frome and East Somerset,South West,England,County,7/5/24 5:51,LD gain from Con,LD,Liberal Democrat,,Anna,Sabine,Elizabeth,,Female,New member,
+E14001242,Fylde,North West,England,County,7/5/24 3:16,Con hold,Con,Conservative,Mr,Andrew,Snowden,,,Male,New member,
+E14001243,Gainsborough,East Midlands,England,County,7/5/24 5:01,Con hold,Con,Conservative,Sir,Edward,Leigh,,345,Male,Re-elected Member,Gainsborough
+E14001244,Gateshead Central and Whickham,North East,England,Borough,7/5/24 1:25,Lab hold,Lab,Labour,,Mark,Ferguson,Andrew,,Male,New member,
+E14001245,Gedling,East Midlands,England,County,7/5/24 4:16,Lab gain from Con,Lab,Labour,,Michael,Payne,,,Male,New member,
+E14001246,Gillingham and Rainham,South East,England,Borough,7/5/24 5:48,Lab gain from Con,Lab,Labour,,Naushabah,Khan,Parveen,,Female,New member,
+S14000084,Glasgow East,Scotland,Scotland,Borough,7/5/24 5:43,Lab gain from SNP,Lab,Labour,,John,Grady,,,Male,New member,
+S14000085,Glasgow North,Scotland,Scotland,Borough,7/5/24 5:44,Lab gain from SNP,Lab,Labour,,Martin,Rhodes,,,Male,New member,
+S14000086,Glasgow North East,Scotland,Scotland,Borough,7/5/24 5:45,Lab gain from SNP,Lab,Labour,,Maureen,Burke,,,Female,New member,
+S14000087,Glasgow South,Scotland,Scotland,Borough,7/5/24 5:46,Lab gain from SNP,Lab,Labour,,Gordon,McKee,,,Male,New member,
+S14000088,Glasgow South West,Scotland,Scotland,Borough,7/5/24 5:47,Lab gain from SNP,Lab,Labour,Dr,Zubir,Ahmed,,,Male,New member,
+S14000089,Glasgow West,Scotland,Scotland,Borough,7/5/24 5:48,Lab gain from SNP,Lab,Labour,,Patricia,Ferguson,,,Female,New member,
+E14001247,Glastonbury and Somerton,South West,England,County,7/5/24 4:38,LD gain from Con,LD,Liberal Democrat,,Sarah,Dyke,Joanne,4995,Female,Re-elected Member,Somerton and Frome
+S14000090,Glenrothes and Mid Fife,Scotland,Scotland,County,7/5/24 5:48,Lab gain from SNP,Lab,Labour,,Richard,Baker,,,Male,New member,
+E14001248,Gloucester,South West,England,Borough,7/5/24 7:29,Lab gain from Con,Lab,Labour,,Alex,McIntyre,,,Male,New member,
+E14001249,Godalming and Ash,South East,England,County,7/5/24 5:52,Con hold,Con,Conservative,,Jeremy,Hunt,,1572,Male,Re-elected Member,South West Surrey
+E14001250,Goole and Pocklington,Yorkshire and The Humber,England,County,7/5/24 6:06,Con hold,Con,Conservative,,David,Davis,Michael,373,Male,Re-elected Member,Haltemprice and Howden
+S14000091,Gordon and Buchan,Scotland,Scotland,County,7/5/24 6:20,Con hold,Con,Conservative,,Harriet,Cross,,,Female,New member,
+E14001251,Gorton and Denton,North West,England,Borough,7/5/24 5:47,Lab hold,Lab,Labour and Co-operative,Mr.,Andrew,Gwynne,John,1506,Male,Re-elected Member,Denton and Reddish
+E14001252,Gosport,South East,England,Borough,7/5/24 5:53,Con hold,Con,Conservative,Dame,Caroline,Dinenage,Julia,4008,Female,Re-elected Member,Gosport
+W07000097,Gower,Wales,Wales,County,7/5/24 3:05,Lab hold,Lab,Labour,,Tonia,Antoniazzi,Louise,4623,Female,Re-elected Member,Gower
+E14001253,Grantham and Bourne,East Midlands,England,County,7/5/24 3:26,Con hold,Con,Conservative,,Gareth,Davies,Mark,4850,Male,Re-elected Member,Grantham and Stamford
+E14001254,Gravesham,South East,England,County,7/5/24 5:54,Lab gain from Con,Lab,Labour,,Lauren,Sullivan,,,Female,New member,
+E14001255,Great Grimsby and Cleethorpes,Yorkshire and The Humber,England,Borough,7/5/24 4:31,Lab gain from Con,Lab,Labour,,Melanie,Onn,,4464,Female,Historical member,
+E14001256,Great Yarmouth,East of England,England,County,7/5/24 4:39,RUK gain from Con,RUK,Reform UK,,Rupert,Lowe,James Graham,,Male,New member,
+E14001257,Greenwich and Woolwich,London,England,Borough,7/5/24 5:06,Lab hold,Lab,Labour,,Matthew,Pennycook,Thomas,4520,Male,Re-elected Member,Greenwich and Woolwich
+E14001258,Guildford,South East,England,County,7/5/24 6:04,LD gain from Con,LD,Liberal Democrat,,Zöe,Franklin,Louise,,Female,New member,
+E14001259,Hackney North and Stoke Newington,London,England,Borough,7/5/24 6:23,Lab hold,Lab,Labour,Ms,Diane,Abbott,,172,Female,Re-elected Member,Hackney North and Stoke Newington
+E14001260,Hackney South and Shoreditch,London,England,Borough,7/5/24 4:15,Lab hold,Lab,Labour and Co-operative,Dame,Meg,Hillier,,1524,Female,Re-elected Member,Hackney South and Shoreditch
+E14001261,Halesowen,West Midlands,England,Borough,7/5/24 6:06,Lab gain from Con,Lab,Labour,,Alex,Ballinger,,,Male,New member,
+E14001262,Halifax,Yorkshire and The Humber,England,Borough,7/5/24 6:08,Lab hold,Lab,Labour and Co-operative,,Kate,Dearden,Alexandra,,Female,New member,
+E14001263,Hamble Valley,South East,England,County,7/5/24 5:55,Con hold,Con,Conservative,,Paul,Holmes,John,4803,Male,Re-elected Member,Eastleigh
+S14000092,Hamilton and Clyde Valley,Scotland,Scotland,County,7/5/24 5:49,Lab gain from SNP,Lab,Labour,,Imogen,Walker,,,Female,New member,
+E14001264,Hammersmith and Chiswick,London,England,Borough,7/5/24 5:42,Lab hold,Lab,Labour,,Andy,Slaughter,,1516,Male,Re-elected Member,Hammersmith
+E14001265,Hampstead and Highgate,London,England,Borough,7/5/24 3:46,Lab hold,Lab,Labour,,Tulip,Siddiq,,4518,Female,Re-elected Member,Hampstead and Kilburn
+E14001266,"Harborough, Oadby and Wigston",East Midlands,England,County,7/5/24 4:59,Con hold,Con,Conservative,,Neil,O'Brien,John,4679,Male,Re-elected Member,Harborough
+E14001267,Harlow,East of England,England,County,7/5/24 5:37,Lab gain from Con,Lab,Labour and Co-operative,,Chris,Vince,,,Male,New member,
+E14001268,Harpenden and Berkhamsted,East of England,England,County,7/5/24 5:04,LD gain from Con,LD,Liberal Democrat,,Victoria,Collins,,,Female,New member,
+E14001269,Harrogate and Knaresborough,Yorkshire and The Humber,England,County,7/5/24 1:47,LD gain from Con,LD,Liberal Democrat,,Tom,Gordon,,,Male,New member,
+E14001270,Harrow East,London,England,Borough,7/5/24 4:56,Con hold,Con,Conservative,,Bob,Blackman,,4005,Male,Re-elected Member,Harrow East
+E14001271,Harrow West,London,England,Borough,7/5/24 4:46,Lab hold,Lab,Labour and Co-operative,,Gareth,Thomas,,177,Male,Re-elected Member,Harrow West
+E14001272,Hartlepool,North East,England,County,7/5/24 3:02,Lab hold,Lab,Labour,,Jonathan,Brash,James Frederick,,Male,New member,
+E14001273,Harwich and North Essex,East of England,England,County,7/5/24 5:30,Con hold,Con,Conservative,Sir,Bernard,Jenkin,,40,Male,Re-elected Member,Harwich and North Essex
+E14001274,Hastings and Rye,South East,England,County,7/5/24 5:49,Lab gain from Con,Lab,Labour and Co-operative,,Helena,Dollimore,,,Female,New member,
+E14001275,Havant,South East,England,Borough,7/5/24 5:56,Con hold,Con,Conservative,,Alan,Mak,,4484,Male,Re-elected Member,Havant
+E14001276,Hayes and Harlington,London,England,Borough,7/5/24 5:09,Lab hold,Lab,Labour,,John,McDonnell,Martin,178,Male,Re-elected Member,Hayes and Harlington
+E14001277,Hazel Grove,North West,England,County,7/5/24 3:15,LD gain from Con,LD,Liberal Democrat,,Lisa,Smart,,,Female,New member,
+E14001278,Hemel Hempstead,East of England,England,County,7/5/24 7:32,Lab gain from Con,Lab,Labour,,David,Taylor,,,Male,New member,
+E14001279,Hendon,London,England,Borough,7/5/24 10:32,Lab gain from Con,Lab,Labour,,David,Pinto-Duschinksy,,,Male,New member,
+E14001280,Henley and Thame,South East,England,County,7/5/24 6:00,LD gain from Con,LD,Liberal Democrat,,Freddie,Van Mierlo,,,Male,New member,
+E14001281,Hereford and South Herefordshire,West Midlands,England,County,7/5/24 6:21,Con hold,Con,Conservative,,Jesse,Norman,,3991,Male,Re-elected Member,Hereford and South Herefordshire
+E14001282,Herne Bay and Sandwich,South East,England,County,7/5/24 7:17,Con hold,Con,Conservative,Sir,Roger,Gale,James,87,Male,Re-elected Member,North Thanet
+E14001283,Hertford and Stortford,East of England,England,County,7/5/24 5:02,Lab gain from Con,Lab,Labour,,Josh,Dean,,,Male,New member,
+E14001284,Hertsmere,East of England,England,County,7/5/24 4:22,Con hold,Con,Conservative,,Oliver,Dowden,James,4441,Male,Re-elected Member,Hertsmere
+E14001285,Hexham,North East,England,County,7/5/24 4:23,Lab gain from Con,Lab,Labour,,Joe,Morris,,,Male,New member,
+E14001286,Heywood and Middleton North,North West,England,County,7/5/24 3:23,Lab hold,Lab,Labour,Mrs,Elsie,Blundell,Jane,,Female,New member,
+E14001287,High Peak,East Midlands,England,County,7/5/24 3:47,Lab gain from Con,Lab,Labour,,Jon,Pearce,,,Male,New member,
+E14001288,Hinckley and Bosworth,East Midlands,England,County,7/5/24 5:05,Con hold,Con,Conservative,Dr,Luke,Evans,,4781,Male,Re-elected Member,Bosworth
+E14001289,Hitchin,East of England,England,County,7/5/24 5:52,Lab gain from Con,Lab,Labour,,Alistair,Strathern,,5000,Male,Re-elected Member,Mid Bedfordshire
+E14001290,Holborn and St Pancras,London,England,Borough,7/5/24 5:07,Lab hold,Lab,Labour,,Keir,Starmer,,4514,Male,Re-elected Member,Holborn and St Pancras
+E14001291,Honiton and Sidmouth,South West,England,County,7/5/24 6:44,LD gain from Con,LD,Liberal Democrat,,Richard,Foord,John,4942,Male,Re-elected Member,Tiverton and Honiton
+E14001292,Hornchurch and Upminster,London,England,Borough,7/5/24 5:14,Con hold,Con,Conservative,,Julia,Lopez,,4647,Female,Re-elected Member,Hornchurch and Upminster
+E14001293,Hornsey and Friern Barnet,London,England,Borough,7/5/24 5:15,Lab hold,Lab,Labour,,Catherine,West,,4523,Female,Re-elected Member,Hornsey and Wood Green
+E14001294,Horsham,South East,England,County,7/5/24 6:27,LD gain from Con,LD,Liberal Democrat,,John,Milne,Laurence,,Male,New member,
+E14001295,Houghton and Sunderland South,North East,England,County,7/4/24 23:30,Lab hold,Lab,Labour,,Bridget,Phillipson,Maeve,4046,Female,Re-elected Member,Houghton and Sunderland South
+E14001296,Hove and Portslade,South East,England,Borough,7/5/24 6:12,Lab hold,Lab,Labour,,Peter,Kyle,,4505,Male,Re-elected Member,Hove
+E14001297,Huddersfield,Yorkshire and The Humber,England,Borough,7/5/24 6:09,Lab hold,Lab,Labour,,Harpreet,Uppal,Kaur,,Female,New member,
+E14001298,Huntingdon,East of England,England,County,7/5/24 4:24,Con hold,Con,Conservative,,Ben,Obese-Jecty,,,Male,New member,
+E14001299,Hyndburn,North West,England,County,7/5/24 3:58,Lab gain from Con,Lab,Labour,,Sarah,Smith,Madeleine Webster,,Female,New member,
+E14001300,Ilford North,London,England,Borough,7/5/24 5:06,Lab hold,Lab,Labour,,Wes,Streeting,,4504,Male,Re-elected Member,Ilford North
+E14001301,Ilford South,London,England,Borough,7/5/24 5:21,Lab hold,Lab,Labour,,Jas,Athwal,,,Male,New member,
+S14000093,Inverclyde and Renfrewshire West,Scotland,Scotland,County,7/5/24 5:50,Lab gain from SNP,Lab,Labour,,Martin,McCluskey,,,Male,New member,
+E14001302,Ipswich,East of England,England,Borough,7/5/24 4:27,Lab gain from Con,Lab,Labour and Co-operative,,Jack,Abbott,Simon,,Male,New member,
+E14001303,Isle of Wight East,South East,England,County,7/5/24 5:57,Con hold,Con,Conservative,,Joe,Robertson,Paul James,,Male,New member,
+E14001304,Isle of Wight West,South East,England,County,7/5/24 5:59,Lab gain from Con,Lab,Labour,,Richard,Quigley,Michael,,Male,New member,
+E14001305,Islington North,London,England,Borough,7/5/24 5:23,Ind gain from Lab,Ind,Independent,,Jeremy,Corbyn,,185,Male,Re-elected Member,Islington North
+E14001306,Islington South and Finsbury,London,England,Borough,7/5/24 5:25,Lab hold,Lab,Labour,,Emily,Thornberry,,1536,Female,Re-elected Member,Islington South and Finsbury
+E14001307,Jarrow and Gateshead East,North East,England,Borough,7/5/24 1:56,Lab hold,Lab,Labour,,Kate,Osborne,,4783,Female,Re-elected Member,Jarrow
+E14001308,Keighley and Ilkley,Yorkshire and The Humber,England,County,7/5/24 6:12,Con hold,Con,Conservative,,Robbie,Moore,,4861,Male,Re-elected Member,Keighley
+E14001309,Kenilworth and Southam,West Midlands,England,County,7/5/24 5:09,Con hold,Con,Conservative,Sir,Jeremy,Wright,Paul,1560,Male,Re-elected Member,Kenilworth and Southam
+E14001310,Kensington and Bayswater,London,England,Borough,7/5/24 5:28,Lab hold,Lab,Labour,,Joe,Powell,,,Male,New member,
+E14001311,Kettering,East Midlands,England,County,7/5/24 6:42,Lab gain from Con,Lab,Labour,,Rosie,Wrighting,,,Female,New member,
+S14000110,Kilmarnock and Loudoun,Scotland,Scotland,County,7/5/24 2:56,Lab gain from SNP,Lab,Labour,,Lillian,Jones,,,Female,New member,
+E14001312,Kingston and Surbiton,London,England,Borough,7/5/24 6:52,LD hold,LD,Liberal Democrat,,Ed,Davey,,188,Male,Re-elected Member,Kingston and Surbiton
+E14001313,Kingston upon Hull East,Yorkshire and The Humber,England,Borough,7/5/24 4:16,Lab hold,Lab,Labour,,Karl,Turner,,4030,Male,Re-elected Member,Kingston upon Hull East
+E14001314,Kingston upon Hull North and Cottingham,Yorkshire and The Humber,England,Borough,7/5/24 6:15,Lab hold,Lab,Labour,Dame,Diana,Johnson,Ruth,1533,Female,Re-elected Member,Kingston upon Hull North
+E14001315,Kingston upon Hull West and Haltemprice,Yorkshire and The Humber,England,Borough,7/5/24 6:17,Lab gain from Con,Lab,Labour,,Emma,Hardy,Ann,4645,Female,Re-elected Member,Kingston upon Hull West and Hessle
+E14001316,Kingswinford and South Staffordshire,West Midlands,England,County,7/5/24 6:11,Con hold,Con,Conservative,,Mike,Wood,Jon,4384,Male,Re-elected Member,Dudley South
+E14001317,Knowsley,North West,England,Borough,7/5/24 2:06,Lab hold,Lab,Labour,,Anneliese,Midgley,,,Female,New member,
+N05000009,Lagan Valley,Northern Ireland,Northern Ireland,County,7/5/24 4:01,Alliance gain from DUP,Alliance,Alliance,,Sorcha-Lucy,Eastwood,,,Female,New member,
+E14001318,Lancaster and Wyre,North West,England,County,7/5/24 5:00,Lab gain from Con,Lab,Labour,,Cat,Smith,Jane,4436,Female,Re-elected Member,Lancaster and Fleetwood
+E14001319,Leeds Central and Headingley,Yorkshire and The Humber,England,Borough,7/5/24 6:19,Lab hold,Lab,Labour and Co-operative,,Alex,Sobel,,4658,Male,Re-elected Member,Leeds North West
+E14001320,Leeds East,Yorkshire and The Humber,England,County,7/5/24 6:28,Lab hold,Lab,Labour,,Richard,Burgon,,4493,Male,Re-elected Member,Leeds East
+E14001321,Leeds North East,Yorkshire and The Humber,England,Borough,7/5/24 5:50,Lab hold,Lab,Labour,,Fabian,Hamilton,,415,Male,Re-elected Member,Leeds North East
+E14001322,Leeds North West,Yorkshire and The Humber,England,County,7/5/24 5:56,Lab gain from Con,Lab,Labour,,Katie,White,Jayne,,Female,New member,
+E14001323,Leeds South,Yorkshire and The Humber,England,Borough,7/5/24 6:31,Lab hold,Lab,Labour,,Hilary,Benn,James,413,Male,Re-elected Member,Leeds Central
+E14001324,Leeds South West and Morley,Yorkshire and The Humber,England,Borough,7/5/24 6:33,Lab gain from Con,Lab,Labour,Mr,Mark,Sewards,,,Male,New member,
+E14001325,Leeds West and Pudsey,Yorkshire and The Humber,England,Borough,7/5/24 2:32,Lab hold,Lab,Labour,,Rachel,Reeves,,4031,Female,Re-elected Member,Leeds West
+E14001326,Leicester East,East Midlands,England,Borough,7/5/24 3:33,Con gain from Lab,Con,Conservative,,Shivani,Raja,,,Female,New member,
+E14001327,Leicester South,East Midlands,England,Borough,7/5/24 3:46,Ind gain from Lab,Ind,Independent,,Shockat,Adam,,,Male,New member,
+E14001328,Leicester West,East Midlands,England,Borough,7/5/24 3:06,Lab hold,Lab,Labour,,Liz,Kendall,,4026,Female,Re-elected Member,Leicester West
+E14001329,Leigh and Atherton,North West,England,Borough,7/5/24 2:29,Lab gain from Con,Lab,Labour and Co-operative,,Jo,Platt,Marie,4673,Female,Historical member,
+E14001330,Lewes,South East,England,County,7/5/24 6:01,LD gain from Con,LD,Liberal Democrat,,James,MacCleary,Neville,,Male,New member,
+E14001331,Lewisham East,London,England,Borough,7/5/24 5:53,Lab hold,Lab,Labour,,Janet,Daby,Jessica,4698,Female,Re-elected Member,Lewisham East
+E14001332,Lewisham North,London,England,Borough,7/5/24 5:58,Lab hold,Lab,Labour,,Vicky,Foxcroft,,4491,Female,Re-elected Member,"Lewisham, Deptford"
+E14001333,Lewisham West and East Dulwich,London,England,Borough,7/5/24 5:31,Lab hold,Lab,Labour,,Ellie,Reeves,,4620,Female,Re-elected Member,Lewisham West and Penge
+E14001334,Leyton and Wanstead,London,England,Borough,7/5/24 6:40,Lab hold,Lab,Labour,,Calvin,Bailey,George,,Male,New member,
+E14001335,Lichfield,West Midlands,England,County,7/5/24 3:58,Lab gain from Con,Lab,Labour,,Dave,Robertson,,,Male,New member,
+E14001336,Lincoln,East Midlands,England,Borough,7/5/24 4:26,Lab gain from Con,Lab,Labour,,Hamish,Falconer,,,Male,New member,
+E14001337,Liverpool Garston,North West,England,Borough,7/5/24 5:26,Lab hold,Lab,Labour,,Maria,Eagle,,483,Female,Re-elected Member,Garston and Halewood
+E14001338,Liverpool Riverside,North West,England,Borough,7/5/24 3:31,Lab hold,Lab,Labour,,Kim,Johnson,Marie,4824,Female,Re-elected Member,"Liverpool, Riverside"
+E14001339,Liverpool Walton,North West,England,Borough,7/5/24 3:01,Lab hold,Lab,Labour,,Dan,Carden,Joseph,4651,Male,Re-elected Member,"Liverpool, Walton"
+E14001340,Liverpool Wavertree,North West,England,Borough,7/5/24 4:17,Lab hold,Lab,Labour,,Paula,Barker,,4828,Female,Re-elected Member,"Liverpool, Wavertree"
+E14001341,Liverpool West Derby,North West,England,Borough,7/5/24 3:42,Lab hold,Lab,Labour,,Ian,Byrne,Robert,4831,Male,Re-elected Member,"Liverpool, West Derby"
+S14000095,Livingston,Scotland,Scotland,County,7/5/24 4:37,Lab gain from SNP,Lab,Labour,,Gregor,Poynton,Arthur,,Male,New member,
+W07000098,Llanelli,Wales,Wales,County,7/5/24 4:17,Lab hold,Lab,Labour,Dame,Nia,Griffith,Rhiannon,1541,Female,Re-elected Member,Llanelli
+S14000096,Lothian East,Scotland,Scotland,County,7/5/24 3:24,Lab gain from SNP,Lab,Labour and Co-operative,Mr,Douglas,Alexander,Garven,632,Male,Historical member,
+E14001342,Loughborough,East Midlands,England,County,7/5/24 5:36,Lab gain from Con,Lab,Labour,,Jeevun,Sandher,,,Male,New member,
+E14001343,Louth and Horncastle,East Midlands,England,County,7/5/24 4:03,Con hold,Con,Conservative,,Victoria,Atkins,Mary,4399,Female,Re-elected Member,Louth and Horncastle
+E14001344,Lowestoft,East of England,England,County,7/5/24 6:09,Lab gain from Con,Lab,Labour,,Jess,Asato,,,Female,New member,
+E14001345,Luton North,East of England,England,Borough,7/5/24 5:42,Lab hold,Lab,Labour,,Sarah,Owen,Mei Li,4777,Female,Re-elected Member,Luton North
+E14001346,Luton South and South Bedfordshire,East of England,England,County,7/5/24 5:06,Lab hold,Lab,Labour,,Rachel,Hopkins,Louise,4873,Female,Re-elected Member,Luton South
+E14001347,Macclesfield,North West,England,County,7/5/24 5:46,Lab gain from Con,Lab,Labour,,Tim,Roca,,,Male,New member,
+E14001348,Maidenhead,South East,England,County,7/5/24 6:54,LD gain from Con,LD,Liberal Democrat,Mr,Joshua,Reynolds,Peter,,Male,New member,
+E14001349,Maidstone and Malling,South East,England,County,7/5/24 6:13,Con hold,Con,Conservative,Mrs,Helen,Grant,,4018,Female,Re-elected Member,Maidstone and The Weald
+E14001350,Makerfield,North West,England,Borough,7/5/24 3:02,Lab hold,Lab,Labour,,Josh,Simons,,,Male,New member,
+E14001351,Maldon,East of England,England,County,7/5/24 5:15,Con hold,Con,Conservative,,John,Whittingdale,Flasby Lawrance,39,Male,Re-elected Member,Maldon
+E14001352,Manchester Central,North West,England,Borough,7/5/24 4:47,Lab hold,Lab,Labour and Co-operative,,Lucy,Powell,Maria,4263,Female,Re-elected Member,Manchester Central
+E14001353,Manchester Rusholme,North West,England,Borough,7/5/24 5:35,Lab hold,Lab,Labour,,Afzal,Khan,,4671,Male,Re-elected Member,"Manchester, Gorton"
+E14001354,Manchester Withington,North West,England,Borough,7/5/24 5:01,Lab hold,Lab,Labour,,Jeff,Smith,,4456,Male,Re-elected Member,"Manchester, Withington"
+E14001355,Mansfield,East Midlands,England,County,7/5/24 4:57,Lab gain from Con,Lab,Labour,,Steve,Yemm,,,Male,New member,
+E14001356,Melksham and Devizes,South West,England,County,7/5/24 5:47,LD gain from Con,LD,Liberal Democrat,,Brian,Mathew,,,Male,New member,
+E14001357,Melton and Syston,East Midlands,England,County,7/5/24 5:13,Con hold,Con,Conservative,,Edward,Argar,John Comport,4362,Male,Re-elected Member,Charnwood
+E14001358,Meriden and Solihull East,West Midlands,England,County,7/5/24 3:53,Con hold,Con,Conservative,,Saqib,Bhatti,,4818,Male,Re-elected Member,Meriden
+W07000099,Merthyr Tydfil and Aberdare,Wales,Wales,County,7/5/24 4:43,Lab hold,Lab,Labour,,Gerald,Jones,,4501,Male,Re-elected Member,Merthyr Tydfil and Rhymney
+W07000100,Mid and South Pembrokeshire,Wales,Wales,County,7/5/24 4:02,Lab gain from Con,Lab,Labour,,Henry,Tufnell,,,Male,New member,
+E14001359,Mid Bedfordshire,East of England,England,County,7/5/24 4:26,Con hold,Con,Conservative,,Blake,Stephenson,,,Male,New member,
+E14001360,Mid Buckinghamshire,South East,England,County,7/5/24 6:03,Con hold,Con,Conservative,,Greg,Smith,,4778,Male,Re-elected Member,Buckingham
+E14001361,Mid Cheshire,North West,England,County,7/5/24 4:50,Lab gain from Con,Lab,Labour,,Andrew,Cooper,Graham,,Male,New member,
+E14001362,Mid Derbyshire,East Midlands,England,County,7/5/24 5:22,Lab gain from Con,Lab,Labour,,Jonathan,Davies,,,Male,New member,
+E14001363,Mid Dorset and North Poole,South West,England,County,7/5/24 6:44,LD gain from Con,LD,Liberal Democrat,,Vikki,Slade,,,Female,New member,
+S14000097,Mid Dunbartonshire,Scotland,Scotland,County,7/5/24 4:57,LD gain from SNP,LD,Liberal Democrat,,Susan,Murray,,,Female,New member,
+E14001364,Mid Leicestershire,East Midlands,England,County,7/5/24 6:30,Con hold,Con,Conservative,,Peter,Bedford,Alexander,,Male,New member,
+E14001365,Mid Norfolk,East of England,England,County,7/5/24 3:44,Con hold,Con,Conservative,,George,Freeman,William,4020,Male,Re-elected Member,Mid Norfolk
+E14001366,Mid Sussex,South East,England,County,7/5/24 5:43,LD gain from Con,LD,Liberal Democrat,,Alison,Bennett,Elizabeth,,Female,New member,
+N05000010,Mid Ulster,Northern Ireland,Northern Ireland,County,7/5/24 4:14,SF hold,SF,Sinn Fein,Mr,Cathal,Mallaghan,Sean,,Male,New member,
+E14001367,Middlesbrough and Thornaby East,North East,England,Borough,7/5/24 3:35,Lab hold,Lab,Labour,,Andy,McDonald,,4269,Male,Re-elected Member,Middlesbrough
+E14001368,Middlesbrough South and East Cleveland,North East,England,County,7/5/24 4:19,Lab gain from Con,Lab,Labour,,Luke,Myer,,,Male,New member,
+S14000045,Midlothian,Scotland,Scotland,County,7/5/24 4:02,Lab gain from SNP,Lab,Labour and Co-operative,,Kirsty,McNeill,,,Female,New member,
+E14001369,Milton Keynes Central,South East,England,Borough,7/5/24 4:34,Lab gain from Con,Lab,Labour,,Emily,Darlington,,,Female,New member,
+E14001370,Milton Keynes North,South East,England,County,7/5/24 4:37,Lab gain from Con,Lab,Labour,,Chris,Curtis,,,Male,New member,
+E14001371,Mitcham and Morden,London,England,Borough,7/5/24 6:00,Lab hold,Lab,Labour,Dame,Siobhain,McDonagh,Ann,193,Female,Re-elected Member,Mitcham and Morden
+W07000101,Monmouthshire,Wales,Wales,County,7/5/24 5:52,Lab gain from Con,Lab,Labour,,Catherine,Fookes,Ann,,Female,New member,
+W07000102,Montgomeryshire and Glyndwr,Wales,Wales,County,7/5/24 5:11,Lab gain from Con,Lab,Labour,,Steve,Witherden,,,Male,New member,
+S14000098,"Moray West, Nairn and Strathspey",Scotland,Scotland,County,7/5/24 5:47,SNP hold,SNP,Scottish National Party,,Graham,Leadbitter,,,Male,New member,
+E14001372,Morecambe and Lunesdale,North West,England,County,7/5/24 5:27,Lab gain from Con,Lab,Labour,,Lizzi,Collinge,,,Female,New member,
+S14000099,"Motherwell, Wishaw and Carluke",Scotland,Scotland,County,7/5/24 4:12,Lab gain from SNP,Lab,Labour,,Pamela,Nash,,3909,Female,Historical member,
+S14000027,Na h-Eileanan an Iar,Scotland,Scotland,County,7/5/24 5:20,Lab gain from SNP,Lab,Labour,,Torcuil,Crichton,,,Male,New member,
+W07000103,Neath and Swansea East,Wales,Wales,County,7/5/24 4:21,Lab hold,Lab,Labour,,Carolyn,Harris,,4480,Female,Re-elected Member,Swansea East
+E14001373,New Forest East,South East,England,County,7/5/24 4:39,Con hold,Con,Conservative,Sir,Julian,Lewis,Murray,54,Male,Re-elected Member,New Forest East
+E14001374,New Forest West,South East,England,County,7/5/24 5:44,Con hold,Con,Conservative,Sir,Desmond,Swayne,Angus,55,Male,Re-elected Member,New Forest West
+E14001375,Newark,East Midlands,England,County,7/5/24 4:29,Con hold,Con,Conservative,,Robert,Jenrick,,4320,Male,Re-elected Member,Newark
+E14001376,Newbury,South East,England,County,7/5/24 6:18,LD gain from Con,LD,Liberal Democrat,Mr,Lee,Dillon,Raymond James,,Male,New member,
+E14001377,Newcastle upon Tyne Central and West,North East,England,Borough,7/5/24 1:57,Lab hold,Lab,Labour,,Chi,Onwurah,,4124,Female,Re-elected Member,Newcastle upon Tyne Central
+E14001378,Newcastle upon Tyne East and Wallsend,North East,England,Borough,7/5/24 3:49,Lab hold,Lab,Labour,,Mary,Glindon,Theresa,4126,Female,Re-elected Member,North Tyneside
+E14001379,Newcastle upon Tyne North,North East,England,Borough,7/5/24 3:02,Lab hold,Lab,Labour,,Catherine,McKinnell,,4125,Female,Re-elected Member,Newcastle upon Tyne North
+E14001380,Newcastle-under-Lyme,West Midlands,England,County,7/5/24 4:29,Lab gain from Con,Lab,Labour,,Adam,Jogee,,,Male,New member,
+W07000104,Newport East,Wales,Wales,County,7/5/24 3:30,Lab hold,Lab,Labour,,Jessica,Morden,Elizabeth,1548,Female,Re-elected Member,Newport East
+W07000105,Newport West and Islwyn,Wales,Wales,County,7/5/24 4:00,Lab hold,Lab,Labour,,Ruth,Jones,Lorraine,4716,Female,Re-elected Member,Newport West
+N05000011,Newry and Armagh,Northern Ireland,Northern Ireland,County,7/5/24 5:37,SF hold,SF,Sinn Fein,,DÃ¡ire,Hughes,,,Male,New member,
+E14001381,Newton Abbot,South West,England,County,7/5/24 3:38,LD gain from Con,LD,Liberal Democrat,,Martin,Wrigley,,,Male,New member,
+E14001382,Newton Aycliffe and Spennymoor,North East,England,County,7/5/24 3:24,Lab gain from Con,Lab,Labour,,Alan,Strickland,Paul,,Male,New member,
+E14001383,Normanton and Hemsworth,Yorkshire and The Humber,England,County,7/5/24 6:34,Lab hold,Lab,Labour,,Jon,Trickett,Hedley,410,Male,Re-elected Member,Hemsworth
+N05000012,North Antrim,Northern Ireland,Northern Ireland,County,7/5/24 7:08,TUV gain from DUP,TUV,Traditional Unionist Voice,,Jim,Allister,,,Male,New member,
+S14000048,North Ayrshire and Arran,Scotland,Scotland,County,7/5/24 4:24,Lab gain from SNP,Lab,Labour,,Irene,Campbell,,,Female,New member,
+E14001384,North Bedfordshire,East of England,England,County,7/5/24 6:00,Con hold,Con,Conservative,,Richard,Fuller,Quentin,3912,Male,Re-elected Member,North East Bedfordshire
+E14001385,North Cornwall,South West,England,County,7/5/24 7:16,LD gain from Con,LD,Liberal Democrat,,Ben,Maguire,,,Male,New member,
+E14001386,North Cotswolds,South West,England,County,7/5/24 7:28,Con hold,Con,Conservative,Sir,Geoffrey,Clifton-Brown,Robert,249,Male,Re-elected Member,The Cotswolds
+E14001387,North Devon,South West,England,County,7/5/24 4:43,LD gain from Con,LD,Liberal Democrat,,Ian,Roome,,,Male,New member,
+E14001388,North Dorset,South West,England,County,7/5/24 5:51,Con hold,Con,Conservative,,Simon,Hoare,James,4494,Male,Re-elected Member,North Dorset
+N05000013,North Down,Northern Ireland,Northern Ireland,County,7/5/24 5:21,Ind gain from Alliance,Ind,Independent,,Alex,Easton,,,Male,New member,
+E14001389,North Durham,North East,England,County,7/5/24 3:44,Lab hold,Lab,Labour,,Luke,Akehurst,,,Male,New member,
+E14001390,North East Cambridgeshire,East of England,England,County,7/5/24 3:03,Con hold,Con,Conservative,,Steve,Barclay,,4095,Male,Re-elected Member,North East Cambridgeshire
+E14001391,North East Derbyshire,East Midlands,England,County,7/5/24 5:19,Lab gain from Con,Lab,Labour,,Louise,Jones,Elizabeth,,Female,New member,
+S14000100,North East Fife,Scotland,Scotland,County,7/5/24 5:49,LD gain from SNP,LD,Liberal Democrat,,Wendy,Chamberlain,Anne,4765,Female,Re-elected Member,North East Fife
+E14001392,North East Hampshire,South East,England,County,7/5/24 5:45,LD gain from Con,LD,Liberal Democrat,,Alex,Brewer,,,Female,New member,
+E14001393,North East Hertfordshire,East of England,England,County,7/5/24 5:43,Lab gain from Con,Lab,Labour,,Chris,Hinchliff,,,Male,New member,
+E14001394,North East Somerset and Hanham,South West,England,County,7/5/24 6:26,Lab gain from Con,Lab,Labour,,Dan,Norris,,221,Male,Historical member,
+E14001395,North Herefordshire,West Midlands,England,County,7/5/24 6:21,Green gain from Con,Green,Green,,Ellie,Chowns,,,Female,New member,
+E14001396,North Norfolk,East of England,England,County,7/5/24 4:29,LD gain from Con,LD,Liberal Democrat,,Steff,Aquarone,,,Male,New member,
+E14001397,North Northumberland,North East,England,County,7/5/24 5:03,Lab gain from Con,Lab,Labour,,David,Smith,,,Male,New member,
+E14001398,North Shropshire,West Midlands,England,County,7/5/24 5:12,LD gain from Con,LD,Liberal Democrat,,Helen,Morgan,Margaret Lilian,4934,Female,Re-elected Member,North Shropshire
+E14001399,North Somerset,South West,England,County,7/5/24 6:44,Lab gain from Con,Lab,Labour,,Sadik,Al-Hassan,Adam,,Male,New member,
+E14001400,North Warwickshire and Bedworth,West Midlands,England,County,7/5/24 3:24,Lab gain from Con,Lab,Labour,,Rachel,Taylor,,,Female,New member,
+E14001401,North West Cambridgeshire,East of England,England,County,7/5/24 6:11,Lab gain from Con,Lab,Labour,,Sam,Carling,,,Male,New member,
+E14001402,North West Essex,East of England,England,County,7/5/24 3:47,Con hold,Con,Conservative,,Kemi,Badenoch,,4597,Female,Re-elected Member,Saffron Walden
+E14001403,North West Hampshire,South East,England,County,7/5/24 5:46,Con hold,Con,Conservative,,Kit,Malthouse,,4495,Male,Re-elected Member,North West Hampshire
+E14001404,North West Leicestershire,East Midlands,England,County,7/5/24 4:48,Lab gain from Con,Lab,Labour,,Amanda,Hack,Jayne,,Female,New member,
+E14001405,North West Norfolk,East of England,England,County,7/5/24 5:47,Con hold,Con,Conservative,,James,Wild,Oliver,4787,Male,Re-elected Member,North West Norfolk
+E14001406,Northampton North,East Midlands,England,Borough,7/5/24 6:28,Lab gain from Con,Lab,Labour,,Lucy,Rigby,,,Female,New member,
+E14001407,Northampton South,East Midlands,England,Borough,7/5/24 6:22,Lab gain from Con,Lab,Labour,,Mike,Reader,,,Male,New member,
+E14001408,Norwich North,East of England,England,Borough,7/5/24 4:32,Lab gain from Con,Lab,Labour and Co-operative,,Alice,Macdonald,,,Female,New member,
+E14001409,Norwich South,East of England,England,Borough,7/5/24 2:24,Lab hold,Lab,Labour,,Clive,Lewis,Anthony,4500,Male,Re-elected Member,Norwich South
+E14001410,Nottingham East,East Midlands,England,Borough,7/5/24 4:12,Lab hold,Lab,Labour,,Nadia,Whittome,,4869,Female,Re-elected Member,Nottingham East
+E14001411,Nottingham North and Kimberley,East Midlands,England,Borough,7/5/24 3:55,Lab hold,Lab,Labour and Co-operative,,Alex,Norris,,4641,Male,Re-elected Member,Nottingham North
+E14001412,Nottingham South,East Midlands,England,Borough,7/5/24 3:44,Lab hold,Lab,Labour,,Lilian,Greenwood,Rachel,4029,Female,Re-elected Member,Nottingham South
+E14001413,Nuneaton,West Midlands,England,County,7/5/24 2:09,Lab gain from Con,Lab,Labour,,Jodie,Gosling,Claire,,Female,New member,
+E14001414,Old Bexley and Sidcup,London,England,Borough,7/5/24 6:03,Con hold,Con,Conservative,,Louie,French,Thomas,4932,Male,Re-elected Member,Old Bexley and Sidcup
+E14001415,Oldham East and Saddleworth,North West,England,County,7/5/24 5:04,Lab hold,Lab,Labour,,Debbie,Abrahams,Angela Elspeth Marie,4212,Female,Re-elected Member,Oldham East and Saddleworth
+E14001416,"Oldham West, Chadderton and Royton",North West,England,Borough,7/5/24 4:28,Lab hold,Lab,Labour and Co-operative,,Jim,McMahon,,4569,Male,Re-elected Member,Oldham West and Royton
+S14000051,Orkney and Shetland,Scotland,Scotland,County,7/5/24 6:42,LD hold,LD,Liberal Democrat,,Alistair,Carmichael,Morrison,1442,Male,Re-elected Member,Orkney and Shetland
+E14001417,Orpington,London,England,Borough,7/5/24 5:37,Con hold,Con,Conservative,,Gareth,Bacon,,4798,Male,Re-elected Member,Orpington
+E14001418,Ossett and Denby Dale,Yorkshire and The Humber,England,County,7/5/24 6:27,Lab gain from Con,Lab,Labour,,Jade,Botterill,,,Female,New member,
+E14001419,Oxford East,South East,England,Borough,7/5/24 5:47,Lab hold,Lab,Labour and Co-operative,,Anneliese,Dodds,,4657,Female,Re-elected Member,Oxford East
+E14001420,Oxford West and Abingdon,South East,England,County,7/5/24 5:49,LD hold,LD,Liberal Democrat,,Layla,Moran,Michelle,4656,Female,Re-elected Member,Oxford West and Abingdon
+S14000101,Paisley and Renfrewshire North,Scotland,Scotland,Borough,7/5/24 4:00,Lab gain from SNP,Lab,Labour,,Alison,Taylor,Suzanne Watt,,Female,New member,
+S14000102,Paisley and Renfrewshire South,Scotland,Scotland,County,7/5/24 3:18,Lab gain from SNP,Lab,Labour,,Johanna,Baxter,,,Female,New member,
+E14001421,Peckham,London,England,Borough,7/5/24 6:14,Lab hold,Lab,Labour and Co-operative,,Miatta,Fahnbulleh,,,Female,New member,
+E14001422,Pendle and Clitheroe,North West,England,County,7/5/24 5:37,Lab gain from Con,Lab,Labour,,Jonathan,Hinder,James,,Male,New member,
+E14001423,Penistone and Stocksbridge,Yorkshire and The Humber,England,County,7/5/24 4:12,Lab gain from Con,Lab,Labour,,Marie,Tidball,,,Female,New member,
+E14001424,Penrith and Solway,North West,England,County,7/5/24 6:32,Lab gain from Con,Lab,Labour,,Markus,Campbell-Savours,Dale,,Male,New member,
+S14000103,Perth and Kinross-shire,Scotland,Scotland,County,7/5/24 4:27,SNP hold,SNP,Scottish National Party,,Pete,Wishart,,1440,Male,Re-elected Member,Perth and North Perthshire
+E14001425,Peterborough,East of England,England,County,7/5/24 5:52,Lab gain from Con,Lab,Labour and Co-operative,,Andrew,Pakes,,,Male,New member,
+E14001426,Plymouth Moor View,South West,England,Borough,7/5/24 6:22,Lab gain from Con,Lab,Labour,,Fred,Thomas,,,Male,New member,
+E14001427,Plymouth Sutton and Devonport,South West,England,Borough,7/5/24 6:20,Lab hold,Lab,Labour and Co-operative,,Luke,Pollard,,4682,Male,Re-elected Member,"Plymouth, Sutton and Devonport"
+E14001428,"Pontefract, Castleford and Knottingley",Yorkshire and The Humber,England,County,7/5/24 6:25,Lab hold,Lab,Labour,,Yvette,Cooper,,420,Female,Re-elected Member,"Normanton, Pontefract and Castleford"
+W07000106,Pontypridd,Wales,Wales,County,7/5/24 2:50,Lab hold,Lab,Labour,,Alex,Davies-Jones,Mary,4849,Female,Re-elected Member,Pontypridd
+E14001429,Poole,South West,England,Borough,7/5/24 11:38,Lab gain from Con,Lab,Labour,,Neil,Duncan-Jordan,John,,Male,New member,
+E14001430,Poplar and Limehouse,London,England,Borough,7/5/24 6:15,Lab hold,Lab,Labour,,Apsana,Begum,,4790,Female,Re-elected Member,Poplar and Limehouse
+E14001431,Portsmouth North,South East,England,Borough,7/5/24 5:49,Lab gain from Con,Lab,Labour,,Amanda,Martin,Louise,,Female,New member,
+E14001432,Portsmouth South,South East,England,Borough,7/5/24 5:50,Lab hold,Lab,Labour,,Stephen,Morgan,James,4653,Male,Re-elected Member,Portsmouth South
+E14001433,Preston,North West,England,Borough,7/5/24 5:51,Lab hold,Lab,Labour and Co-operative,Sir,Mark,Hendrick,Philip,473,Male,Re-elected Member,Preston
+E14001434,Putney,London,England,Borough,7/5/24 6:16,Lab hold,Lab,Labour,,Fleur,Anderson,,4788,Female,Re-elected Member,Putney
+E14001435,Queen's Park and Maida Vale,London,England,Borough,7/5/24 6:17,Lab hold,Lab,Labour,,Georgia,Gould,,,Female,New member,
+E14001436,Rawmarsh and Conisbrough,Yorkshire and The Humber,England,County,7/5/24 3:26,Lab hold,Lab,Labour,,John,Healey,,400,Male,Re-elected Member,Wentworth and Dearne
+E14001437,Rayleigh and Wickford,East of England,England,County,7/5/24 2:13,Con hold,Con,Conservative,Mr,Mark,Francois,Gino,1444,Male,Re-elected Member,Rayleigh and Wickford
+E14001438,Reading Central,South East,England,Borough,7/5/24 5:51,Lab hold,Lab,Labour,,Matt,Rodda,,4654,Male,Re-elected Member,Reading East
+E14001439,Reading West and Mid Berkshire,South East,England,County,7/5/24 6:31,Lab gain from Con,Lab,Labour,,Olivia,Bailey,Joanna,,Female,New member,
+E14001440,Redcar,North East,England,Borough,7/5/24 2:32,Lab gain from Con,Lab,Labour and Co-operative,,Anna,Turley,,4449,Female,Historical member,
+E14001441,Redditch,West Midlands,England,County,7/5/24 3:50,Lab gain from Con,Lab,Labour,Mr,Chris,Bloore,James,,Male,New member,
+E14001442,Reigate,South East,England,County,7/5/24 5:52,Con hold,Con,Conservative,,Rebecca,Paul,Sheila,,Female,New member,
+W07000107,Rhondda and Ogmore,Wales,Wales,County,7/5/24 3:23,Lab hold,Lab,Labour,Sir,Chris,Bryant,,1446,Male,Re-elected Member,Rhondda
+E14001443,Ribble Valley,North West,England,County,7/5/24 5:09,Lab gain from Con,Lab,Labour,,Maya,Ellis,,,Female,New member,
+E14001444,Richmond and Northallerton,Yorkshire and The Humber,England,County,7/5/24 10:51,Con hold,Con,Conservative,,Rishi,Sunak,,4483,Male,Re-elected Member,Richmond (Yorks)
+E14001445,Richmond Park,London,England,Borough,7/5/24 6:18,LD hold,LD,Liberal Democrat,,Sarah,Olney,,4591,Female,Re-elected Member,Richmond Park
+E14001446,Rochdale,North West,England,County,7/5/24 3:38,Lab hold,Lab,Labour and Co-operative,,Paul,Waugh,,,Male,New member,
+E14001447,Rochester and Strood,South East,England,County,7/5/24 5:53,Lab gain from Con,Lab,Labour,,Lauren,Edwards,Rae,,Female,New member,
+E14001448,Romford,London,England,Borough,7/5/24 6:19,Con hold,Con,Conservative,,Andrew,Rosindell,Richard,1447,Male,Re-elected Member,Romford
+E14001449,Romsey and Southampton North,South East,England,County,7/5/24 5:54,Con hold,Con,Conservative,,Caroline,Nokes,Fiona Ellen,4048,Female,Re-elected Member,Romsey and Southampton North
+E14001450,Rossendale and Darwen,North West,England,County,7/5/24 4:30,Lab gain from Con,Lab,Labour,,Andy,MacNae,,,Male,New member,
+E14001451,Rother Valley,Yorkshire and The Humber,England,County,7/5/24 3:47,Lab gain from Con,Lab,Labour,,Jake,Richards,,,Male,New member,
+E14001452,Rotherham,Yorkshire and The Humber,England,Borough,7/5/24 6:19,Lab hold,Lab,Labour,,Sarah,Champion,,4267,Female,Re-elected Member,Rotherham
+E14001453,Rugby,West Midlands,England,County,7/5/24 4:05,Lab gain from Con,Lab,Labour,,John,Slinger,Anthony,,Male,New member,
+E14001454,"Ruislip, Northwood and Pinner",London,England,Borough,7/5/24 6:20,Con hold,Con,Conservative,,David,Simmonds,Timothy,4872,Male,Re-elected Member,"Ruislip, Northwood and Pinner"
+E14001455,Runcorn and Helsby,North West,England,County,7/5/24 2:54,Lab hold,Lab,Labour,,Mike,Amesbury,,4667,Male,Re-elected Member,Weaver Vale
+E14001456,Runnymede and Weybridge,South East,England,County,7/5/24 6:45,Con hold,Con,Conservative,Dr,Ben,Spencer,,4785,Male,Re-elected Member,Runnymede and Weybridge
+E14001457,Rushcliffe,East Midlands,England,County,7/5/24 3:32,Lab gain from Con,Lab,Labour,,James,Naish,,,Male,New member,
+S14000104,Rutherglen,Scotland,Scotland,Borough,7/5/24 4:48,Lab gain from SNP,Lab,Labour,,Michael,Shanks,,4998,Male,Re-elected Member,Rutherglen and Hamilton West
+E14001458,Rutland and Stamford,East Midlands,England,County,7/5/24 5:35,Con hold,Con,Conservative,,Alicia,Kearns,Alexandra Martha,4805,Female,Re-elected Member,Rutland and Melton
+E14001459,Salford,North West,England,Borough,7/5/24 5:06,Lab hold,Lab,Labour,,Rebecca,Long-Bailey,,4396,Female,Re-elected Member,Salford and Eccles
+E14001460,Salisbury,South West,England,County,7/5/24 7:38,Con hold,Con,Conservative,,John,Glen,Philip,4051,Male,Re-elected Member,Salisbury
+E14001461,Scarborough and Whitby,Yorkshire and The Humber,England,County,7/5/24 6:15,Lab gain from Con,Lab,Labour,,Alison,Hume,,,Female,New member,
+E14001462,Scunthorpe,Yorkshire and The Humber,England,County,7/5/24 3:15,Lab gain from Con,Lab,Labour,,Nicholas,Dakin,,4056,Male,Historical member,
+E14001463,Sefton Central,North West,England,County,7/5/24 3:37,Lab hold,Lab,Labour,,Bill,Esterson,,4061,Male,Re-elected Member,Sefton Central
+E14001464,Selby,Yorkshire and The Humber,England,County,7/5/24 6:42,Lab gain from Con,Lab,Labour,,Keir,Mather,Alexander,4993,Male,Re-elected Member,Selby and Ainsty
+E14001465,Sevenoaks,South East,England,County,7/5/24 6:09,Con hold,Con,Conservative,,Laura,Trott,,4780,Female,Re-elected Member,Sevenoaks
+E14001466,Sheffield Brightside and Hillsborough,Yorkshire and The Humber,England,Borough,7/5/24 6:12,Lab hold,Lab,Labour,,Gill,Furniss,,4571,Female,Re-elected Member,"Sheffield, Brightside and Hillsborough"
+E14001467,Sheffield Central,Yorkshire and The Humber,England,Borough,7/5/24 4:53,Lab hold,Lab,Labour,,Abtisam,Mohamed,,,Female,New member,
+E14001468,Sheffield Hallam,Yorkshire and The Humber,England,County,7/5/24 4:48,Lab hold,Lab,Labour,,Olivia,Blake,,4864,Female,Re-elected Member,"Sheffield, Hallam"
+E14001469,Sheffield Heeley,Yorkshire and The Humber,England,Borough,7/5/24 6:10,Lab hold,Lab,Labour,,Louise,Haigh,,4473,Female,Re-elected Member,"Sheffield, Heeley"
+E14001470,Sheffield South East,Yorkshire and The Humber,England,Borough,7/5/24 6:07,Lab hold,Lab,Labour,,Clive,Betts,,394,Male,Re-elected Member,Sheffield South East
+E14001471,Sherwood Forest,East Midlands,England,County,7/5/24 5:10,Lab gain from Con,Lab,Labour,,Michelle,Welsh,,,Female,New member,
+E14001472,Shipley,Yorkshire and The Humber,England,County,7/5/24 6:05,Lab gain from Con,Lab,Labour,,Anna,Dixon,Louise,,Female,New member,
+E14001473,Shrewsbury,West Midlands,England,County,7/5/24 5:15,Lab gain from Con,Lab,Labour,,Julia,Buckley,,,Female,New member,
+E14001474,Sittingbourne and Sheppey,South East,England,County,7/5/24 6:15,Lab gain from Con,Lab,Labour,,Kevin,McKenna,,,Male,New member,
+E14001475,Skipton and Ripon,Yorkshire and The Humber,England,County,7/5/24 6:44,Con hold,Con,Conservative,,Julian,Smith,Richard,4118,Male,Re-elected Member,Skipton and Ripon
+E14001476,Sleaford and North Hykeham,East Midlands,England,County,7/5/24 6:42,Con hold,Con,Conservative,Dr,Caroline,Johnson,Elizabeth,4592,Female,Re-elected Member,Sleaford and North Hykeham
+E14001477,Slough,South East,England,Borough,7/5/24 5:16,Lab hold,Lab,Labour,,Tan,Dhesi,Singh,4638,Male,Re-elected Member,Slough
+E14001478,Smethwick,West Midlands,England,Borough,7/5/24 3:11,Lab hold,Lab,Labour,,Gurinder,Josan,Singh,,Male,New member,
+E14001479,Solihull West and Shirley,West Midlands,England,Borough,7/5/24 5:16,Con hold,Con,Conservative,,Neil,Shastri-Hurst,,,Male,New member,
+N05000014,South Antrim,Northern Ireland,Northern Ireland,County,7/5/24 6:25,UUP gain from DUP,UUP,Ulster Unionist Party,,Robin,Swann,,,Male,New member,
+E14001480,South Basildon and East Thurrock,East of England,England,County,7/5/24 18:42,RUK gain from Con,RUK,Reform UK,,James,McMurdock,,,Male,New member,
+E14001481,South Cambridgeshire,East of England,England,County,7/5/24 5:29,LD gain from Con,LD,Liberal Democrat,,Pippa,Heylings,,,Female,New member,
+E14001482,South Cotswolds,South West,England,County,7/5/24 7:44,LD gain from Con,LD,Liberal Democrat,,Roz,Savage,,,Female,New member,
+E14001483,South Derbyshire,East Midlands,England,County,7/5/24 4:21,Lab gain from Con,Lab,Labour,,Samantha,Niblett,,,Female,New member,
+E14001484,South Devon,South West,England,County,7/5/24 6:16,LD gain from Con,LD,Liberal Democrat,,Caroline,Voaden,Jane,,Female,New member,
+E14001485,South Dorset,South West,England,County,7/5/24 6:15,Lab gain from Con,Lab,Labour,,Lloyd,Hatton,,,Male,New member,
+N05000015,South Down,Northern Ireland,Northern Ireland,County,7/5/24 6:31,SF hold,SF,Sinn Fein,,Chris,Hazzard,John,4636,Male,Re-elected Member,South Down
+E14001486,South East Cornwall,South West,England,County,7/5/24 7:04,Lab gain from Con,Lab,Labour,,Anna,Gelderd,Preston,,Female,New member,
+E14001487,South Holland and The Deepings,East Midlands,England,County,7/5/24 3:41,Con hold,Con,Conservative,Sir,John,Hayes,Henry,350,Male,Re-elected Member,South Holland and The Deepings
+E14001488,South Leicestershire,East Midlands,England,County,7/5/24 4:30,Con hold,Con,Conservative,,Alberto,Costa,,4439,Male,Re-elected Member,South Leicestershire
+E14001489,South Norfolk,East of England,England,County,7/5/24 5:54,Lab gain from Con,Lab,Labour,,Ben,Goldsborough,,,Male,New member,
+E14001490,South Northamptonshire,East Midlands,England,County,7/5/24 7:31,Con hold,Con,Conservative,,Sarah,Bool,,,Female,New member,
+E14001491,South Ribble,North West,England,County,7/5/24 3:33,Lab gain from Con,Lab,Labour,,Paul,Foster,,,Male,New member,
+E14001492,South Shields,North East,England,Borough,7/5/24 1:58,Lab hold,Lab,Labour,,Emma,Lewell-Buck,,4277,Female,Re-elected Member,South Shields
+E14001493,South Shropshire,West Midlands,England,County,7/5/24 6:16,Con hold,Con,Conservative,,Stuart,Anderson,Paul,4742,Male,Re-elected Member,Wolverhampton South West
+E14001494,South Suffolk,East of England,England,County,7/5/24 5:56,Con hold,Con,Conservative,,James,Cartlidge,Roger,4519,Male,Re-elected Member,South Suffolk
+E14001495,South West Devon,South West,England,County,7/5/24 5:39,Con hold,Con,Conservative,,Rebecca,Smith,Jane,,Female,New member,
+E14001496,South West Hertfordshire,East of England,England,County,7/5/24 5:10,Con hold,Con,Conservative,Mr,Gagan,Mohindra,,4804,Male,Re-elected Member,South West Hertfordshire
+E14001497,South West Norfolk,East of England,England,County,7/5/24 7:10,Lab gain from Con,Lab,Labour,,Terry,Jermy,,,Male,New member,
+E14001498,South West Wiltshire,South West,England,County,7/5/24 5:16,Con hold,Con,Conservative,Dr,Andrew,Murrison,William,1466,Male,Re-elected Member,South West Wiltshire
+E14001499,Southampton Itchen,South East,England,Borough,7/5/24 5:23,Lab gain from Con,Lab,Labour,,Darren,Paffey,James,,Male,New member,
+E14001500,Southampton Test,South East,England,Borough,7/5/24 5:18,Lab hold,Lab,Labour,,Satvir,Kaur,,,Female,New member,
+E14001501,Southend East and Rochford,East of England,England,County,7/5/24 4:37,Lab gain from Con,Lab,Labour,,Bayo,Alaba,,,Male,New member,
+E14001502,Southend West and Leigh,East of England,England,Borough,7/5/24 5:51,Lab gain from Con,Lab,Labour,,David,Burton-Sampson,Edmund,,Male,New member,
+E14001503,Southgate and Wood Green,London,England,Borough,7/5/24 6:20,Lab hold,Lab,Labour,,Bambos,Charalambous,,4610,Male,Re-elected Member,"Enfield, Southgate"
+E14001504,Southport,North West,England,County,7/5/24 3:36,Lab gain from Con,Lab,Labour,,Patrick,Hurley,Brian,,Male,New member,
+E14001505,Spelthorne,South East,England,Borough,7/5/24 6:51,Con hold,Con,Conservative,,Lincoln,Jopp,,,Male,New member,
+E14001506,Spen Valley,Yorkshire and The Humber,England,Borough,7/5/24 5:56,Lab gain from Con,Lab,Labour,,Kim,Leadbeater,,4923,Female,Re-elected Member,Batley and Spen
+E14001507,St Albans,East of England,England,County,7/5/24 5:32,LD hold,LD,Liberal Democrat,,Daisy,Cooper,,4769,Female,Re-elected Member,St Albans
+E14001508,St Austell and Newquay,South West,England,County,7/5/24 6:03,Lab gain from Con,Lab,Labour,,Noah,Law,Charles,,Male,New member,
+E14001509,St Helens North,North West,England,County,7/5/24 4:01,Lab hold,Lab,Labour,,David,Baines,Edward,,Male,New member,
+E14001510,St Helens South and Whiston,North West,England,Borough,7/5/24 4:31,Lab hold,Lab,Labour,Ms,Marie,Rimmer,Elizabeth,4457,Female,Re-elected Member,St Helens South and Whiston
+E14001511,St Ives,South West,England,County,7/5/24 6:07,LD gain from Con,LD,Liberal Democrat,,Andrew,George,Henry,227,Male,Historical member,
+E14001512,St Neots and Mid Cambridgeshire,East of England,England,County,7/5/24 5:59,LD gain from Con,LD,Liberal Democrat,,Ian,Sollom,Fraser,,Male,New member,
+E14001513,Stafford,West Midlands,England,County,7/5/24 6:20,Lab gain from Con,Lab,Labour,,Leigh,Ingham,,,Female,New member,
+E14001514,Staffordshire Moorlands,West Midlands,England,County,7/5/24 4:00,Con hold,Con,Conservative,,Karen,Bradley,Anne,4110,Female,Re-elected Member,Staffordshire Moorlands
+E14001515,Stalybridge and Hyde,North West,England,County,7/5/24 3:34,Lab hold,Lab,Labour and Co-operative,,Jonathan,Reynolds,Neil,4119,Male,Re-elected Member,Stalybridge and Hyde
+E14001516,Stevenage,East of England,England,County,7/5/24 3:18,Lab gain from Con,Lab,Labour,,Kevin,Bonavia,,,Male,New member,
+S14000105,Stirling and Strathallan,Scotland,Scotland,County,7/5/24 4:49,Lab gain from SNP,Lab,Labour,,Chris,Kane,,,Male,New member,
+E14001517,Stockport,North West,England,Borough,7/5/24 3:54,Lab hold,Lab,Labour,,Navendu,Mishra,Prabhat,4811,Male,Re-elected Member,Stockport
+E14001518,Stockton North,North East,England,County,7/5/24 3:53,Lab hold,Lab,Labour,,Chris,McDonald,,,Male,New member,
+E14001519,Stockton West,North East,England,County,7/5/24 4:48,Con hold,Con,Conservative,,Matt,Vickers,,4844,Male,Re-elected Member,Stockton South
+E14001520,Stoke-on-Trent Central,West Midlands,England,Borough,7/5/24 6:35,Lab gain from Con,Lab,Labour and Co-operative,,Gareth,Snell,Craig,4595,Male,Historical member,
+E14001521,Stoke-on-Trent North,West Midlands,England,Borough,7/5/24 6:35,Lab gain from Con,Lab,Labour,,David,Williams,,,Male,New member,
+E14001522,Stoke-on-Trent South,West Midlands,England,County,7/5/24 6:34,Lab gain from Con,Lab,Labour,,Allison,Gardner,,,Female,New member,
+E14001523,"Stone, Great Wyrley and Penkridge",West Midlands,England,County,7/5/24 6:38,Con hold,Con,Conservative,,Gavin,Williamson,Alexander,4108,Male,Re-elected Member,South Staffordshire
+E14001524,Stourbridge,West Midlands,England,Borough,7/5/24 6:43,Lab gain from Con,Lab,Labour,,Cat,Eccles,,,Female,New member,
+N05000016,Strangford,Northern Ireland,Northern Ireland,County,7/5/24 5:28,DUP hold,DUP,Democratic Unionist Party,,Jim,Shannon,,4131,Male,Re-elected Member,Strangford
+E14001525,Stratford and Bow,London,England,Borough,7/5/24 6:22,Lab hold,Lab,Labour,,Uma,Kumaran,,,Female,New member,
+E14001526,Stratford-on-Avon,West Midlands,England,County,7/5/24 6:43,LD gain from Con,LD,Liberal Democrat,,Manuela,Perteghella,,,Female,New member,
+E14001527,Streatham and Croydon North,London,England,Borough,7/5/24 6:22,Lab hold,Lab,Labour and Co-operative,,Steve,Reed,,4268,Male,Re-elected Member,Croydon North
+E14001528,Stretford and Urmston,North West,England,Borough,7/5/24 5:29,Lab hold,Lab,Labour,,Andrew,Western,Howard,4979,Male,Re-elected Member,Stretford and Urmston
+E14001529,Stroud,South West,England,County,7/5/24 1:53,Lab gain from Con,Lab,Labour,Dr,Simon,Opher,Joseph,,Male,New member,
+E14001530,Suffolk Coastal,East of England,England,County,7/5/24 5:57,Lab gain from Con,Lab,Labour,,Jenny,Riddell-Carpenter,,,Female,New member,
+E14001531,Sunderland Central,North East,England,Borough,7/5/24 1:07,Lab hold,Lab,Labour,,Lewis,Atkinson,Malcolm ,,Male,New member,
+E14001532,Surrey Heath,South East,England,County,7/5/24 6:24,LD gain from Con,LD,Liberal Democrat,,Al,Pinkerton,,,Male,New member,
+E14001533,Sussex Weald,South East,England,County,7/5/24 6:25,Con hold,Con,Conservative,,Nus,Ghani,,4460,Female,Re-elected Member,Wealden
+E14001534,Sutton and Cheam,London,England,Borough,7/5/24 6:23,LD gain from Con,LD,Liberal Democrat,,Luke,Taylor,,,Male,New member,
+E14001535,Sutton Coldfield,West Midlands,England,Borough,7/5/24 6:40,Con hold,Con,Conservative,,Andrew,Mitchell,,1211,Male,Re-elected Member,Sutton Coldfield
+W07000108,Swansea West,Wales,Wales,County,7/5/24 3:20,Lab hold,Lab,Labour,,Torsten,Bell,,,Male,New member,
+E14001536,Swindon North,South West,England,County,7/5/24 2:16,Lab gain from Con,Lab,Labour,,Will,Stone,,,Male,New member,
+E14001537,Swindon South,South West,England,Borough,7/5/24 0:49,Lab gain from Con,Lab,Labour,,Heidi,Alexander,,4038,Female,Historical member,
+E14001538,Tamworth,West Midlands,England,County,7/5/24 6:32,Lab gain from Con,Lab,Labour,,Sarah,Edwards,Siena,5001,Female,Re-elected Member,Tamworth
+E14001539,Tatton,North West,England,County,7/5/24 5:52,Con hold,Con,Conservative,,Esther,McVey,Louise,4084,Female,Re-elected Member,Tatton
+E14001540,Taunton and Wellington,South West,England,County,7/5/24 5:18,LD gain from Con,LD,Liberal Democrat,Mr,Gideon,Amos,John,,Male,New member,
+E14001541,Telford,West Midlands,England,Borough,7/5/24 2:27,Lab gain from Con,Lab,Labour,,Shaun,Davies,,,Male,New member,
+E14001542,Tewkesbury,South West,England,County,7/5/24 7:31,LD gain from Con,LD,Liberal Democrat,,Cameron,Thomas,,,Male,New member,
+E14001543,The Wrekin,West Midlands,England,County,7/5/24 6:38,Con hold,Con,Conservative,,Mark,Pritchard,,1576,Male,Re-elected Member,The Wrekin
+E14001544,Thirsk and Malton,Yorkshire and The Humber,England,County,7/5/24 5:59,Con hold,Con,Conservative,,Kevin,Hollinrake,,4474,Male,Re-elected Member,Thirsk and Malton
+E14001545,Thornbury and Yate,South West,England,County,7/5/24 4:29,LD gain from Con,LD,Liberal Democrat,,Claire,Young,Louise,,Female,New member,
+E14001546,Thurrock,East of England,England,Borough,7/5/24 3:10,Lab gain from Con,Lab,Labour,,Jen,Craft,,,Female,New member,
+E14001547,Tipton and Wednesbury,West Midlands,England,Borough,7/5/24 6:37,Lab gain from Con,Lab,Labour,,Antonia,Bance,Kay,,Female,New member,
+E14001548,Tiverton and Minehead,South West,England,County,7/5/24 5:20,LD gain from Con,LD,Liberal Democrat,,Rachel,Gilmour,Clare,,Female,New member,
+E14001549,Tonbridge,South East,England,County,7/5/24 6:27,Con hold,Con,Conservative,,Tom,Tugendhat,,4462,Male,Re-elected Member,Tonbridge and Malling
+E14001550,Tooting,London,England,Borough,7/5/24 6:24,Lab hold,Lab,Labour,Dr,Rosena,Allin-Khan,Chantelle,4573,Female,Re-elected Member,Tooting
+E14001551,Torbay,South West,England,Borough,7/5/24 3:15,LD gain from Con,LD,Liberal Democrat,,Steve,Darling,,,Male,New member,
+W07000109,Torfaen,Wales,Wales,County,7/5/24 3:04,Lab hold,Lab,Labour,,Nick,Thomas-Symonds,,4479,Male,Re-elected Member,Torfaen
+E14001552,Torridge and Tavistock,South West,England,County,7/5/24 6:56,Con hold,Con,Conservative,Sir,Geoffrey,Cox,,1508,Male,Re-elected Member,Torridge and West Devon
+E14001553,Tottenham,London,England,Borough,7/5/24 6:25,Lab hold,Lab,Labour,,David,Lammy,,206,Male,Re-elected Member,Tottenham
+E14001554,Truro and Falmouth,South West,England,County,7/5/24 5:48,Lab gain from Con,Lab,Labour and Co-operative,,Jayne,Kirkham,,,Female,New member,
+E14001555,Tunbridge Wells,South East,England,County,7/5/24 5:13,LD gain from Con,LD,Liberal Democrat,,Mike,Martin,,,Male,New member,
+E14001556,Twickenham,London,England,Borough,7/5/24 6:26,LD hold,LD,Liberal Democrat,,Munira,Wilson,,4776,Female,Re-elected Member,Twickenham
+E14001557,Tynemouth,North East,England,Borough,7/5/24 2:37,Lab hold,Lab,Labour,Sir,Alan,Campbell,,529,Male,Re-elected Member,Tynemouth
+N05000017,Upper Bann,Northern Ireland,Northern Ireland,County,7/5/24 4:26,DUP hold,DUP,Democratic Unionist Party,,Carla,Lockhart,,4857,Female,Re-elected Member,Upper Bann
+E14001558,Uxbridge and South Ruislip,London,England,Borough,7/5/24 7:01,Lab gain from Con,Lab,Labour,,Danny,Beales,,,Male,New member,
+W07000110,Vale of Glamorgan,Wales,Wales,County,7/5/24 2:31,Lab gain from Con,Lab,Labour,,Kanishka,Narayan,,,Male,New member,
+E14001559,Vauxhall and Camberwell Green,London,England,Borough,7/5/24 6:26,Lab hold,Lab,Labour and Co-operative,,Florence,Eshalomi,,4870,Female,Re-elected Member,Vauxhall
+E14001560,Wakefield and Rothwell,Yorkshire and The Humber,England,Borough,7/5/24 5:41,Lab gain from Con,Lab,Labour and Co-operative,,Simon,Lightwood,,4943,Male,Re-elected Member,Wakefield
+E14001561,Wallasey,North West,England,Borough,7/5/24 5:31,Lab hold,Lab,Labour,Dame,Angela,Eagle,,491,Female,Re-elected Member,Wallasey
+E14001562,Walsall and Bloxwich,West Midlands,England,Borough,7/5/24 6:36,Lab gain from Con,Lab,Labour,,Valerie,Vaz,,4076,Female,Re-elected Member,Walsall South
+E14001563,Walthamstow,London,England,Borough,7/5/24 6:27,Lab hold,Lab,Labour and Co-operative,,Stella,Creasy,Judith,4088,Female,Re-elected Member,Walthamstow
+E14001564,Warrington North,North West,England,County,7/5/24 4:33,Lab hold,Lab,Labour,,Charlotte,Nichols,Louise,4799,Female,Re-elected Member,Warrington North
+E14001565,Warrington South,North West,England,County,7/5/24 4:34,Lab hold,Lab,Labour and Co-operative,,Sarah,Hall,,,Female,New member,
+E14001566,Warwick and Leamington,West Midlands,England,County,7/5/24 6:34,Lab hold,Lab,Labour,,Matt,Western,,4617,Male,Re-elected Member,Warwick and Leamington
+E14001567,Washington and Gateshead South,North East,England,Borough,7/5/24 1:08,Lab hold,Lab,Labour,Mrs,Sharon,Hodgson,,1521,Female,Re-elected Member,Washington and Sunderland West
+E14001568,Watford,East of England,England,Borough,7/5/24 5:58,Lab gain from Con,Lab,Labour,,Matt,Turmaine,,,Male,New member,
+E14001569,Waveney Valley,East of England,England,County,7/5/24 6:07,Green gain from Con,Green,Green,,Adrian,Ramsay,Philip,,Male,New member,
+E14001570,Weald of Kent,South East,England,County,7/5/24 6:29,Con hold,Con,Conservative,,Katie,Lam,Jane Lotte,,Female,New member,
+E14001571,Wellingborough and Rushden,East Midlands,England,County,7/5/24 6:32,Lab gain from Con,Lab,Labour,,Gen,Kitchen,,5011,Female,Re-elected Member,Wellingborough
+E14001572,Wells and Mendip Hills,South West,England,County,7/5/24 5:30,LD gain from Con,LD,Liberal Democrat,,Tessa,Munt,Jane,4089,Female,Historical member,
+E14001573,Welwyn Hatfield,East of England,England,County,7/5/24 3:15,Lab gain from Con,Lab,Labour,,Andrew,Lewin,Alan,,Male,New member,
+S14000111,West Aberdeenshire and Kincardine,Scotland,Scotland,County,7/5/24 6:42,Con hold,Con,Conservative,,Andrew,Bowie,Campbell,4601,Male,Re-elected Member,West Aberdeenshire and Kincardine
+E14001574,West Bromwich,West Midlands,England,Borough,7/5/24 3:43,Lab gain from Con,Lab,Labour,,Sarah,Coombes,,,Female,New member,
+E14001575,West Dorset,South West,England,County,7/5/24 6:37,LD gain from Con,LD,Liberal Democrat,,Edward,Morello,,,Male,New member,
+S14000106,West Dunbartonshire,Scotland,Scotland,County,7/5/24 3:16,Lab gain from SNP,Lab,Labour,,Douglas,McAllister,,,Male,New member,
+E14001576,West Ham and Beckton,London,England,Borough,7/5/24 6:28,Lab hold,Lab,Labour,,James,Asser,Edward,,Male,New member,
+E14001577,West Lancashire,North West,England,County,7/5/24 5:07,Lab hold,Lab,Labour,,Ashley,Dalton,,4981,Female,Re-elected Member,West Lancashire
+E14001578,West Suffolk,East of England,England,County,7/5/24 3:21,Con hold,Con,Conservative,,Nick,Timothy,,,Male,New member,
+N05000018,West Tyrone,Northern Ireland,Northern Ireland,County,7/5/24 4:43,SF hold,SF,Sinn Fein,,Órfhlaith,Begley,,4697,Female,Re-elected Member,West Tyrone
+E14001579,West Worcestershire,West Midlands,England,County,7/5/24 6:33,Con hold,Con,Conservative,Dame,Harriett,Baldwin,Mary Morison,4107,Female,Re-elected Member,West Worcestershire
+E14001580,Westmorland and Lonsdale,North West,England,County,7/5/24 5:53,LD gain from Con,LD,Liberal Democrat,,Tim,Farron,,1591,Male,Re-elected Member,Westmorland and Lonsdale
+E14001581,Weston-super-Mare,South West,England,County,7/5/24 4:50,Lab gain from Con,Lab,Labour,,Daniel,Aldridge,,,Male,New member,
+E14001582,Wetherby and Easingwold,Yorkshire and The Humber,England,County,7/5/24 7:12,Con hold,Con,Conservative,Sir,Alec,Shelbrooke,Edward,3997,Male,Re-elected Member,Elmet and Rothwell
+E14001583,Whitehaven and Workington,North West,England,County,7/5/24 2:50,Lab gain from Con,Lab,Labour,,Josh,MacAlister,,,Male,New member,
+E14001584,Widnes and Halewood,North West,England,County,7/5/24 2:31,Lab hold,Lab,Labour,,Derek,Twigg,,429,Male,Re-elected Member,Halton
+E14001585,Wigan,North West,England,County,7/5/24 3:21,Lab hold,Lab,Labour,,Lisa,Nandy ,Eva ,4082,Female,Re-elected Member,Wigan
+E14001586,Wimbledon,London,England,Borough,7/5/24 6:29,LD gain from Con,LD,Liberal Democrat,Mr,Paul,Kohler,,,Male,New member,
+E14001587,Winchester,South East,England,County,7/5/24 6:30,LD gain from Con,LD,Liberal Democrat,,Danny,Chambers,,,Male,New member,
+E14001588,Windsor,South East,England,County,7/5/24 7:02,Con hold,Con,Conservative,,Jack,Rankin,Michael,,Male,New member,
+E14001589,Wirral West,North West,England,County,7/5/24 5:11,Lab hold,Lab,Labour,,Matthew,Patrick,John,,Male,New member,
+E14001590,Witham,East of England,England,County,7/5/24 6:50,Con hold,Con,Conservative,,Priti,Patel,Sushil,4066,Female,Re-elected Member,Witham
+E14001591,Witney,South East,England,County,7/5/24 6:46,LD gain from Con,LD,Liberal Democrat,,Charles,Maynard,Adrian MacFie,,Male,New member,
+E14001592,Woking,South East,England,Borough,7/5/24 6:49,LD gain from Con,LD,Liberal Democrat,,Will,Forster,,,Male,New member,
+E14001593,Wokingham,South East,England,County,7/5/24 5:20,LD gain from Con,LD,Liberal Democrat,,Clive,Jones,,,Male,New member,
+E14001594,Wolverhampton North East,West Midlands,England,Borough,7/5/24 6:32,Lab gain from Con,Lab,Labour,,Sureena,Brackenridge,,,Female,New member,
+E14001595,Wolverhampton South East,West Midlands,England,Borough,7/5/24 6:31,Lab hold,Lab,Labour,,Pat,McFadden,,1587,Male,Re-elected Member,Wolverhampton South East
+E14001596,Wolverhampton West,West Midlands,England,Borough,7/5/24 6:31,Lab gain from Con,Lab,Labour,,Warinder ,Juss,Singh,,Male,New member,
+E14001597,Worcester,West Midlands,England,Borough,7/5/24 4:50,Lab gain from Con,Lab,Labour,,Tom,Collins,,,Male,New member,
+E14001598,Worsley and Eccles,North West,England,County,7/5/24 5:55,Lab hold,Lab,Labour,,Michael,Wheeler,Joseph,,Male,New member,
+E14001599,Worthing West,South East,England,County,7/5/24 6:04,Lab gain from Con,Lab,Labour,Dr,Beccy,Cooper,,,Female,New member,
+W07000111,Wrexham,Wales,Wales,County,7/5/24 3:02,Lab gain from Con,Lab,Labour,,Andrew,Ranger,,,Male,New member,
+E14001600,Wycombe,South East,England,County,7/5/24 7:12,Lab gain from Con,Lab,Labour,,Emma,Reynolds,,4077,Female,Historical member,
+E14001601,Wyre Forest,West Midlands,England,County,7/5/24 5:27,Con hold,Con,Conservative,,Mark,Garnier,Robert Timothy,4074,Male,Re-elected Member,Wyre Forest
+E14001602,Wythenshawe and Sale East,North West,England,Borough,7/5/24 5:56,Lab hold,Lab,Labour,,Mike,Kane,,4316,Male,Re-elected Member,Wythenshawe and Sale East
+E14001603,Yeovil,South West,England,County,7/5/24 4:54,LD gain from Con,LD,Liberal Democrat,,Adam,Dance,James,,Male,New member,
+W07000112,Ynys Mon,Wales,Wales,County,7/5/24 3:27,PC gain from Con,PC,Plaid Cymru,,Llinos,Medi,,,Female,New member,
+E14001604,York Central,Yorkshire and The Humber,England,Borough,7/5/24 5:38,Lab hold,Lab,Labour and Co-operative,,Rachael,Maskell,,4471,Female,Re-elected Member,York Central
+E14001605,York Outer,Yorkshire and The Humber,England,County,7/5/24 5:36,Lab gain from Con,Lab,Labour,,Luke,Charters,,,Male,New member,
+S14000094,"Inverness, Skye and West Ross-shire",,,,7/6/24 18:00,,LD,

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>UK General Election 2024 Declaration Times</title>
+    <script src="d3.v5.min.js"></script>
+    <script src="d3-hexjson.min.js"></script>
+    <style>
+      #plot {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 10pt;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="plot"></div>
+    <script type="text/javascript">
+      // From https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Politics_of_the_United_Kingdom/Index_of_United_Kingdom_political_parties_meta_attributes
+      const PARTY_COLOURS = {
+        Alliance: "#F6CB2F",
+        Con: "#0087DC",
+        DUP: "#D46A4C",
+        Green: "#02A95B",
+        Ind: "#DCDCDC",
+        Lab: "#E4003B",
+        LD: "#FAA61A",
+        PC: "#005B54",
+        RUK: "#12B6CF",
+        SDLP: "#2AA82C",
+        SF: "#326760",
+        SNP: "#FDF38E",
+        Spk: "black",
+        TUV: "#0C3A6A",
+        UUP: "#48A5EE",
+      };
+
+      function dayOfWeekAsString(dayIndex) {
+        return (
+          ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][dayIndex] || ""
+        );
+      }
+      function formatTime(t) {
+        return (
+          dayOfWeekAsString(t.getDay()) +
+          " " +
+          t.toLocaleTimeString().substring(0, 5)
+        );
+      }
+
+      d3.json("data/constituencies.hexjson").then((hexjson) => {
+        // Set the size and margins of the svg
+        const margin = { top: 10, right: 10, bottom: 30, left: 10 },
+          width = 800 - margin.left - margin.right,
+          height = 700 - margin.top - margin.bottom;
+
+        // Create the svg element
+        const svg = d3
+          .select("#plot")
+          .append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+          .attr(
+            "transform",
+            "translate(" + margin.left + "," + margin.top + ")"
+          );
+        d3.csv("data/Winning-members-(Friday-1720).csv").then((d) => {
+          // Constituency code to object
+          const lookup = Object.fromEntries(d.map((e) => [e.ons_id, e]));
+
+          // Times
+          const times = d.map((e) => new Date(e.time_recorded));
+          const pollsCloseTime = new Date("7/4/24 22:00");
+          const lastResultTime = Math.max(...times);
+
+          // Minutes after polls close to constituency code
+          const minsToConstituencies = {};
+          for (e of d) {
+            const time =
+              (new Date(e.time_recorded).getTime() - pollsCloseTime.getTime()) /
+              (1000 * 60);
+            const constituencies = minsToConstituencies[time] || [];
+            constituencies.push(e.ons_id);
+            minsToConstituencies[time] = constituencies;
+          }
+
+          // Render the hexes
+          const hexes = d3.renderHexJSON(hexjson, width, height);
+
+          // Bind the hexes to g elements of the svg and position them
+          const hexmap = svg
+            .selectAll("g")
+            .data(hexes)
+            .enter()
+            .append("g")
+            .attr("transform", function (hex) {
+              return "translate(" + hex.x + "," + hex.y + ")";
+            });
+
+          // Draw the polygons around each hex's centre
+          hexmap
+            .append("polygon")
+            .attr("id", (hex) => hex.key)
+            .attr("points", function (hex) {
+              return hex.points;
+            })
+            .attr("stroke", "white")
+            .attr("stroke-width", "0.5")
+            .attr("fill", "#F6F6F6")
+            .append("svg:title")
+            .attr("id", (hex) => `${hex.key}-title`)
+            .text((hex) => hex.n);
+
+          // Captions
+          svg
+            .append("g")
+            .append("text")
+            .attr("x", 300)
+            .attr("y", 10)
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "24")
+            .attr("alignment-baseline", "hanging")
+            .text("UK General Election 2024");
+
+          svg
+            .append("g")
+            .append("text")
+            .attr("id", "time")
+            .attr("x", 300)
+            .attr("y", 50)
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "72")
+            .attr("alignment-baseline", "hanging")
+            .text(formatTime(pollsCloseTime));
+
+          svg
+            .append("g")
+            .append("text")
+            .attr("id", "declared")
+            .attr("x", 300)
+            .attr("y", 120)
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "36")
+            .attr("alignment-baseline", "hanging")
+            .text("0/650 declared");
+
+          svg
+            .append("text")
+            .attr("x", 0)
+            .attr("y", height + 20)
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "12px")
+            .attr("alignment-baseline", "hanging")
+            .text(
+              "Data source: House of Commons Library, Open Innovations. Animation: Tom White"
+            );
+
+          // Dynamic updates
+          let mins = 0;
+          let declared = 0;
+          function updateResult() {
+            const time = new Date(mins * 60 * 1000 + pollsCloseTime.getTime());
+            svg.select("#time").text(formatTime(time));
+
+            if (mins in minsToConstituencies) {
+              for (d of minsToConstituencies[mins]) {
+                svg
+                  .select(`#${d}`)
+                  .attr("fill", PARTY_COLOURS[lookup[d]["party_abbreviation"]]);
+                svg
+                  .select(`#${d}-title`)
+                  .text(
+                    `${lookup[d]["constituency_name"]} (${lookup[d]["party_abbreviation"]})`
+                  );
+                declared++;
+                svg.select("#declared").text(`${declared}/650 declared`);
+              }
+            }
+            mins++;
+            if (time < lastResultTime) {
+              setTimeout(updateResult, 15);
+            }
+          }
+
+          setTimeout(updateResult, 1000);
+        });
+      });
+    </script>
+  </body>
+</html>
